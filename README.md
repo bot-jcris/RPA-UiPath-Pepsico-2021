@@ -45,4 +45,4 @@ El proyecto será construir la automatización del proceso que tu escojas:
 - Identificar el objetivo de la automatización.
 - Construir el robot que cumpla el objetivo.
 
-[`Siguiente`](Sesión-01/Readme.md)
+[`Siguiente`](https://github.com/bot-jcris/RPA-UiPath-Pepsico-2021/blob/main/Sesi%C3%B3n-01/README.md)
