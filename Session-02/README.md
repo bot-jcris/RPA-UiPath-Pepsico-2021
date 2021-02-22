@@ -1,3 +1,3 @@
 # Sesión 02: Estructuras
 
-[`Anterior`](../Sesión-01/Readme.md) | [`Siguiente`](../Sesión-03/Readme.md)
+[`Anterior`](../Session-01/Readme.md) | [`Siguiente`](../Session-03/Readme.md)

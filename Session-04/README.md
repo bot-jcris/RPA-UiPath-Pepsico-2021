@@ -1,3 +1,3 @@
 # Sesión 04: Manipulación de Excel
 
-[`Anterior`](../Sesión-03/Readme.md) | [`Siguiente`](../Sesión-05/Readme.md)
+[`Anterior`](../Session-03/Readme.md) | [`Siguiente`](../Session-05/Readme.md)

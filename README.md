@@ -45,4 +45,4 @@ El proyecto será construir la automatización del proceso que tu escojas:
 - Identificar el objetivo de la automatización.
 - Construir el robot que cumpla el objetivo.
 
-[`Siguiente`](Session-01/README.md)
+[`Siguiente`](Session-01/Readme.md)
