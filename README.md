@@ -16,25 +16,25 @@ El objetivo es brindarle una visión general sobre RPA y prepararte para desarro
 - Este curso no requiere conocimiento previo específico.
 
 ## :bookmark_tabs: Temario
-- [`Sesión 01:` Primeros Pasos]()
+- [`Sesión 01:` Primeros Pasos](../Session-01/README.md)
 
-- [`Sesión 02:` Estructuras]()
+- [`Sesión 02:` Estructuras](../Session-02/README.md)
 
-- [`Sesión 03:` Manipulación de la información]()
+- [`Sesión 03:` Manipulación de la información](../Session-03/README.md)
 
-- [`Sesión 04:` Manipulación de Excel]()
+- [`Sesión 04:` Manipulación de Excel](../Session-04/README.md)
 
-- [`Sesión 05:` Web Automation]()
+- [`Sesión 05:` Web Automation](../Session-05/README.md)
 
-- [`Sesión 06:` Desktop Application Automation]()
+- [`Sesión 06:` Desktop Application Automation](../Session-06/README.md)
 
-- [`Sesión 07:` Automatizaciones Especiales]()
+- [`Sesión 07:` Automatizaciones Especiales](../Session-07/README.md)
 
-- [`Sesión 08:` Buenas prácticas 1]()
+- [`Sesión 08:` Buenas prácticas 1](../Session-08/README.md)
 
-- [`Sesión 09:` Buenas prácticas 2]()
+- [`Sesión 09:` Buenas prácticas 2](../Session-09/README.md)
 
-- [`Sesión 10:` Robotic Enterprise Framework]()
+- [`Sesión 10:` Robotic Enterprise Framework](../Session-10/README.md)
 
 ## :wrench: Proyecto
 
