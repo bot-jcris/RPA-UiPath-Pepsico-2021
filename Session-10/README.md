@@ -1,3 +1,3 @@
 # Sesión 10: Robotic Enterprise Framework
 
-[`Anterior`](../Session-09/Readme.md) | [`Siguiente`](../Readme.md)
+[`Anterior`](../Session-09/README.md) | [`Siguiente`](../README.md)

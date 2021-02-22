@@ -1,3 +1,3 @@
 # Sesión 01: Primeros Pasos
 
-[`Anterior`](../Readme.md) | [`Siguiente`](../Sesión-02/Readme.md)
+[`Anterior`](../README.md) | [`Siguiente`](../Session-02/README.md)
