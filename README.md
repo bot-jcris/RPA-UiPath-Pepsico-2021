@@ -1,9 +1,20 @@
-# RPA-UiPath-Pepsico-2021
-![](https://img.shields.io//github/watchers/:user/:repo?label=Watch)
+<div align="center">
+<img src="assets/logo.png" align="center" width="40%">
+<br><br>
 
-## :wave: Bienvenidos
+![](https://img.shields.io/badge/BUILT%20BY%20-IT%20MEX-blue.svg)  ![](https://img.shields.io/badge/FOR-YOU-green.svg)
 
-El curso de **RPA con UiPath** te brindará las capacidades necesarias para crear automatizaciones profesionales haciendo uso de las mejores prácticas para su construcción, no es necesario que tengas conocimientos en programación o en automatización, en este curso arrancamos desde cero hasta poder automatizar los escenarios más comunes en la vida cotidiana en **Pepsico**.
+</div>
+
+<div style="text-align: justify;">
+
+# RPA con UiPath - Pepsico 2021
+
+## :wave: Bienvenido
+
+<div>
+
+El curso de **RPA con UiPath** te brindará las capacidades necesarias para **crear automatizaciones profesionales** haciendo uso de las mejores prácticas para su construcción, no es necesario que tengas conocimientos en programación o en automatización, en este curso arrancamos **desde cero** hasta poder automatizar los escenarios más comunes en la vida cotidiana en **Pepsico**.
 
 ## :dart: Objetivo
 
@@ -46,3 +57,5 @@ El proyecto será construir la automatización del proceso que tu escojas:
 - Construir el robot que cumpla el objetivo.
 
 [`Siguiente`](Session-01/README.md)
+
+</div>
