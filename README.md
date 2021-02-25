@@ -2,7 +2,7 @@
 <img src="assets/logo.png" align="center" width="40%">
 <br><br>
 
-![](https://img.shields.io/badge/BUILT%20BY%20-IT%20MEX-blue.svg)  ![](https://img.shields.io/badge/FOR-YOU-green.svg)
+![](https://img.shields.io/badge/BUILT%20BY%20-IT%20MEX-blue.svg)  ![](https://img.shields.io/badge/FOR-YOU-orange.svg)
 
 </div>
 
@@ -11,8 +11,6 @@
 # RPA con UiPath - Pepsico 2021
 
 ## :wave: Bienvenido
-
-<div>
 
 El curso de **RPA con UiPath** te brindará las capacidades necesarias para **crear automatizaciones profesionales** haciendo uso de las mejores prácticas para su construcción, no es necesario que tengas conocimientos en programación o en automatización, en este curso arrancamos **desde cero** hasta poder automatizar los escenarios más comunes en la vida cotidiana en **Pepsico**.
 
