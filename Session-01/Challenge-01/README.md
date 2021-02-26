@@ -4,8 +4,8 @@
 
 ## 1. Objetivos :dart:
 
-- Identificar el número de actividades suceptibles a automatizar del rol que desempeñas.
-- Identificar cuáles de tus actividades cotididanas son susceptibles a automatizar.
+- Identificar el número de actividades susceptibles a automatizar del rol que desempeñas.
+- Identificar cuáles de tus actividades cotidianas son susceptibles a automatizar.
 
 
 ## 2. Desarrollo :hammer:
@@ -45,10 +45,10 @@
 
 <br>
 
- <!---
+ <!--
 
 [`Anterior`](../README.md) | [`Siguiente`](../Session-02/README.md)
 
- --->
+ -->
 
 </div>
