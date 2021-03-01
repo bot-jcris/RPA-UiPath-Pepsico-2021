@@ -31,6 +31,6 @@ En caso de que tengas dudas sobre el planteamiento de tu proyecto, contacta a tu
 
 <br>
 
-[`Anterior`](../Example-2/README.md) | [`Siguiente`](../README.md)
+[`Anterior`](../Example-02/README.md) | [`Siguiente`](../README.md)
 
 </div>
