@@ -30,15 +30,15 @@ Previo a tu sesión remota, es importante revises esta información, funcionará
 
 Vamos a conocer una de las herramientas más importantes del mercado RPA. Navegaremos a través de su interfaz gráfica, identificaremos los principales componentes y aprenderemos a construir nuestro primer proyecto. Comprenderemos lo que hace UiPath al construir un proyecto y veremos la importancia de los paquetes.
 
-- [**`EJEMPLO 1`**](Example-01/Readme.md)
-- [**`EJEMPLO 2`**](Example-02/Readme.md)
+- [**`EJEMPLO 1`**](Example-01/README.md)
+- [**`EJEMPLO 2`**](Example-02/README.md)
 
 ---
 
 ## 4. Postwork :memo:
 Aplica lo todo lo que aprendiste durante la sesión a tu proyecto personal.
 
-- [**`POSTWORK SESIÓN 1`**](Postwork/Readme.md)
+- [**`POSTWORK SESIÓN 1`**](Postwork/README.md)
 
 <br>
 
