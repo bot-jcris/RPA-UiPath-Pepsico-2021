@@ -23,7 +23,7 @@ Previo a tu sesión remota, es importante revises esta información, funcionará
 
 ¿Te has preguntado cual es el grado de automatización del rol que desempeñas? ¿Te has preguntado si las actividades que realizas pueden ser automatizadas?. Vamos a hacer una dinámica que nos dará un panorama muy cercano a nuestra realidad.
 
-- [**`RETO 1`**](Challenge-01/Readme.md)
+- [**`RETO 1`**](Challenge-01/README.md)
 ---
 
 ### <ins>Conociendo a UiPath</ins>
