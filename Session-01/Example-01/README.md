@@ -33,8 +33,8 @@
 
 <br>
 
-<!--
-[`Anterior`](../README.md) | [`Siguiente`](../Session-02/README.md)
--->
+
+[`Anterior`](../Challenge-01/README.md) | [`Siguiente`](../Example-02/README.md)
+
 
 </div>

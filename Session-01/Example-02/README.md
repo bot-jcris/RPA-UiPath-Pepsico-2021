@@ -4,13 +4,13 @@
 
 ## 1. Objetivos :dart:
 
-- Conocer los pasos para instalar un paquete.
-- Identificar las actividades que se incluyeron.
-- Conocer los pasos para desinstalar un paquete.
+- Conocer los pasos para instalar paquetes.
+- Identificar las actividades que incluyen al instalar paquetes.
+- Conocer los pasos para desinstalar paquetes.
 
 ## 2. Desarrollo :hammer:
 
-1. En la sección de *Manage Packages* seleccionar la opción *Official* para segmentar la búsqueda de los paquetes. Escribir el nombre del paquete a buscar, en este caso: "word". Seleccionar el paquete **UiPath.Word.Activities**, y dar clic en la opción *Install*.
+1. En la sección de *Manage Packages* seleccionar la opción *Official* para segmentar la búsqueda de los paquetes. Escribir el nombre del paquete a buscar, en este caso: *word*. Seleccionar el paquete **UiPath.Word.Activities**, y dar clic en la opción *Install*.
 
 <div align="center">
 
@@ -70,8 +70,6 @@
 
 <br>
 
-<!--
-[`Anterior`](../README.md) | [`Siguiente`](../Session-02/README.md)
--->
+[`Anterior`](../Example-01/README.md) | [`Siguiente`](../Postwork/README.md)
 
 </div>

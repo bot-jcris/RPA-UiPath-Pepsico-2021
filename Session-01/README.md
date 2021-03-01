@@ -5,9 +5,11 @@
 
 ## 1. Objetivos :dart:
 
-- ...
-- ...
-- ...
+- Identificar el número de actividades susceptibles a automatizar del rol que desempeñas. Identificar cuáles de tus actividades cotidianas son susceptibles a automatizar.
+- Conocer los componentes elementales que integran la interfaz de usuario de UiPath.
+- Revisar los componentes y subcomponentes que aparecen dentro de la vista de inicio.
+- Conocer los pasos para crear un proyecto. Crear tu primer proyecto.
+- Conocer los pasos para instalar y desinstalar un paquete.
 
 ## 2. Prework :notebook_with_decorative_cover:
 
@@ -17,33 +19,23 @@ Previo a tu sesión remota, es importante revises esta información, funcionará
 
 ## 3. Contenido :blue_book:
 
+### <ins>¿Puede un robot automatizar tu trabajo?</ins>
+
+¿Te has preguntado cual es el grado de automatización del rol que desempeñas? ¿Te has preguntado si las actividades que realizas pueden ser automatizadas?. Vamos a hacer una dinámica que nos dará un panorama muy cercano a nuestra realidad.
+
+- [**`RETO 1`**](Challenge-01/Readme.md)
 ---
 
-### <ins>Tema 1</ins>
+### <ins>Conociendo a UiPath</ins>
 
-En el tema 1 veremos...
+Vamos a conocer una de las herramientas más importantes del mercado RPA. Navegaremos a través de su interfaz gráfica, identificaremos los principales componentes y aprenderemos a construir nuestro primer proyecto. Comprenderemos lo que hace UiPath al construir un proyecto y veremos la importancia de los paquetes.
 
-- [**`EJEMPLO 1`**](Ejemplo-01/Readme.md)
-- [**`RETO 1`**](Reto-01/Readme.md)
-
----
-
-### <ins>Tema 2</ins>
-
-En el tema 2 veremos...
-
-- [**`EJEMPLO 2`**](Ejemplo-02/Readme.md)
-- [**`RETO 2`**](Reto-02/Readme.md)
+- [**`EJEMPLO 1`**](Example-01/Readme.md)
+- [**`EJEMPLO 2`**](Example-02/Readme.md)
 
 ---
 
-## 4. Ejercicios para practicar :hammer:
-
-Aplica lo todo lo que aprendiste durante la sesión en estos ejercicios. 
-
-- [**`EJERCICIOS SESIÓN 1`**](Ejercicios/Readme.md)
-
-## 5. Postwork :memo:
+## 4. Postwork :memo:
 Aplica lo todo lo que aprendiste durante la sesión a tu proyecto personal.
 
 - [**`POSTWORK SESIÓN 1`**](Postwork/Readme.md)

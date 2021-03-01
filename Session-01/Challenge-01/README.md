@@ -45,10 +45,6 @@
 
 <br>
 
- <!--
-
-[`Anterior`](../README.md) | [`Siguiente`](../Session-02/README.md)
-
- -->
+[`Anterior`](../README.md) | [`Siguiente`](../Example-01/README.md)
 
 </div>
