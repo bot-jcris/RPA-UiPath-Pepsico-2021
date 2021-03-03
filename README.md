@@ -49,10 +49,11 @@ El objetivo es brindarle una visión general sobre RPA y prepararte para desarro
 
 El proyecto será construir la automatización del proceso que tu escojas:
 
-- Identificar cuáles van a ser las entradas: Un Excel con información, un correo con un archivo de adjunto, etc.
-- Identificar cuáles van a ser las salidas: Un Excel con la conciliación de la información: SAP, página web, bloc de notas, etc.
-- Identificar el objetivo de la automatización.
-- Construir el robot que cumpla el objetivo.
+- Identificar el proceso a automatizar y cada uno de sus pasos.
+- Identificar cuáles van a ser las entradas y salidas del proceso a automatizar.
+- Identificar los pasos con estructuras condicionales y cíclicas.
+- Prepación del proyecto con todo lo necesario.
+- Construir el robot que cumpla el objetivo con base a las mejores prácticas de UiPath y Pepsico.
 
 [`Siguiente`](Session-01/README.md)
 
