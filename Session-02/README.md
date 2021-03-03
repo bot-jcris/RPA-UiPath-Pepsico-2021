@@ -48,7 +48,7 @@ Todos los procesos tienen reglas, en donde si se cumple una condición haz un co
 ## 5. Postwork :memo:
 Aplica lo todo lo que aprendiste durante la sesión a tu proyecto personal.
 
-- [**`POSTWORK SESIÓN 2`**](Postwork/Readme.md)
+- [**`POSTWORK SESIÓN 2`**](Postwork/README.md)
 
 <br>
 
