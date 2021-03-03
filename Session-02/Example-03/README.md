@@ -5,12 +5,11 @@
 ## 1. Objetivos :dart:
 
 - Conocer los pasos para crear un nuevo archivo.
-- Conocer las actividades de Invoke Workflow File, Multiple Assign.
-
+- Conocer las actividades de *Invoke Workflow File*, *Multiple Assign*.
 
 ## 2. Desarrollo :hammer:
 
-1. Dar clic en la opción *New*, posteriormente seleccionar la opción *Sequence*
+1. Dar clic en la opción *New*, posteriormente seleccionar la opción *Sequence*.
 
 <div align="center">
 
@@ -55,7 +54,7 @@
 
 <br>
 
-4. En el panel de *Project* dar clic derecho al archivo Main.xaml y seleccionar la opción *Open*
+4. En el panel de *Project* dar clic derecho al archivo Main.xaml y seleccionar la opción *Open*.
 
 <div align="center">
 
@@ -135,6 +134,8 @@
 
 </div>
 
+<br>
+
 12. En el panel de *Activities*, buscar la actividad ***Multiple Assign*** y añadirla tal como se muestra en la imagen.
 
 <div align="center">
@@ -169,7 +170,7 @@
 
 <br>
 
-15. Añadir la actividad *Message Box* con el siguiente mensaje: "Mi nuevo nombre es "+str_name+" y mi nuevo animal favorito es+str_favoriteAnimal".
+15. Añadir la actividad *Message Box* con el siguiente mensaje: "Mi nuevo nombre es "+str_name+" y mi nuevo animal favorito es "+str_favoriteAnimal.
 
 <div align="center">
 
@@ -214,8 +215,5 @@
 </div>
 
 <br>
-
-[`Anterior`](../Challenge-01/README.md) | [`Siguiente`](../Example-02/README.md)
-
 
 </div>

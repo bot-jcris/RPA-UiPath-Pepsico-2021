@@ -4,11 +4,12 @@
 
 ## 1. Objetivos :dart:
 
-- Conocer 
+- Conocer las diversas acciones que puede usar una variable del tipo String.
+- Conocer los métodos *Length*,*Replace*,*Concat*,*Contains*,*Substring*.
 
 ## 2. Desarrollo :hammer:
 
-1. Crea un nuevo archivo con el nombre "MétodosTipoVariableString" (utiliza *Sequence*).
+1. Crea un nuevo archivo con el nombre "MétodosTipoVariableString" (utiliza el flujo de trabajo *Sequence*).
 
 <div align="center">
 
@@ -135,8 +136,5 @@
 </div>
 
 <br>
-
-[`Anterior`](../Challenge-01/README.md) | [`Siguiente`](../Example-02/README.md)
-
 
 </div>

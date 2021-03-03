@@ -4,8 +4,9 @@
 
 ## 1. Objetivos :dart:
 
-- Conocer la actividad *Message Box*
-- Aprender a ejecutar un proyecto
+- Conocer la actividad *Message Box*.
+- Conocer el flujo de trabajo *Sequence*.
+- Aprender a ejecutar un proyecto.
 
 ## 2. Desarrollo :hammer:
 
@@ -50,7 +51,7 @@
 
 <br>
 
-5. Ir al panel de *Activities*, y escribir en el buscardor la palabra ***message box***.
+5. Ir al panel de *Activities*, y escribir en el buscador la palabra ***message box***.
 
 <div align="center">
 
@@ -99,9 +100,5 @@
 </div>
 
 <br>
-
-<!--
-[`Anterior`](../Challenge-01/README.md) | [`Siguiente`](../Example-02/README.md)
--->
 
 </div>

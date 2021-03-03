@@ -4,12 +4,12 @@
 
 ## 1. Objetivos :dart:
 
-- Conocer la importancia de la declaración condificional IF.
-- Conocer las actividades de Invoke Workflow File, Multiple Assign.
+- Conocer la importancia de la declaración condificional *IF*.
+- Conocer la actividad *Input Dialog* (*Text Box*).
 
 ## 2. Desarrollo :hammer:
 
-1. Crea un nuevo archivo con el nombre "FlujoCondicionalIF" (utiliza *Sequence*).
+1. Crea un nuevo archivo con el nombre "FlujoCondicionalIF" (utiliza el flujo de trabajo *Sequence*).
 
 <div align="center">
 
@@ -108,9 +108,5 @@
 </div>
 
 <br>
-
-
-[`Anterior`](../Challenge-01/README.md) | [`Siguiente`](../Example-02/README.md)
-
 
 </div>

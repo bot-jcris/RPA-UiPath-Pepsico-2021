@@ -5,8 +5,7 @@
 ## 1. Objetivos :dart:
 
 - Conocer la importancia de la declaración condicional *Switch*.
-- Conocer 
-
+- Conocer la actividad *Input Dialog* (*Multiple Choice*).
 
 ## 2. Desarrollo :hammer:
 
@@ -132,9 +131,5 @@
 </div>
 
 <br>
-
-
-[`Anterior`](../Challenge-01/README.md) | [`Siguiente`](../Example-02/README.md)
-
 
 </div>

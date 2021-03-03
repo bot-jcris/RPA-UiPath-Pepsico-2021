@@ -4,7 +4,7 @@
 
 ## 1. Objetivos :dart:
 
-- Conocer los pasos para crear una varible.
+- Conocer los pasos para crear una variable.
 - Aprender a utilizar una variable.
 - Aprender a concatenar dos contenidos textuales.
 
@@ -12,10 +12,10 @@
 
 1. Con base en lo realizado en el ejemplo anterior (ejemplo 01), crea una variable con los siguientes valores:
 
-- Nombre (*name*): **firstVariable**
-- Tipo (*type*): ***String***
-- Argumento (*scope*): ***Secuence***
-- Valor por defecto (*default*): **", ¿como estás?"**
+- Name: **firstVariable**
+- Type: ***String***
+- Scope: ***Sequence***
+- Default: **", ¿como estás?"**
 
 <div align="center">
 
@@ -54,9 +54,5 @@
 </div>
 
 <br>
-
-
-[`Anterior`](../Challenge-01/README.md) | [`Siguiente`](../Example-02/README.md)
-
 
 </div>
