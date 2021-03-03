@@ -4,7 +4,7 @@
 
 ## 1. Objetivos :dart:
 
-- Conocer la importancia de la declaración condificional *IF*.
+- Conocer la importancia de la declaración condicional *IF*.
 - Conocer la actividad *Input Dialog* (*Text Box*).
 
 ## 2. Desarrollo :hammer:

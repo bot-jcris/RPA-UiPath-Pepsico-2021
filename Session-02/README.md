@@ -22,29 +22,28 @@ Previo a tu sesión remota, es importante revises esta información, funcionará
 
 ---
 
-### <ins>Tema 1</ins>
+### <ins>Variables y argumentos</ins>
 
-En el tema 1 veremos...
+Durante el desarrollo de un proceso de automatización vamos a necesitar un gran conjunto de contenedores que esten manteniendo, transformando y compartiendo toda la información que se requiere para el proceso, es por ello que es importante dominar el uso de variables y argumentos en UiPath.
 
-- [**`EJEMPLO 1`**](Ejemplo-01/Readme.md)
-- [**`RETO 1`**](Reto-01/Readme.md)
-
----
-
-### <ins>Tema 2</ins>
-
-En el tema 2 veremos...
-
-- [**`EJEMPLO 2`**](Ejemplo-02/Readme.md)
-- [**`RETO 2`**](Reto-02/Readme.md)
+- [**`EJEMPLO 1`**](Example-01/README.md)
+- [**`EJEMPLO 2`**](Example-02/README.md)
+- [**`RETO 1`**](Challenge-01/README.md)
+- [**`EJEMPLO 3`**](Example-03/README.md)
+- [**`EJEMPLO 4`**](Example-04/README.md)
 
 ---
 
-## 4. Ejercicios para practicar :hammer:
+### <ins>Declaraciones condicionales</ins>
 
-Aplica lo todo lo que aprendiste durante la sesión en estos ejercicios. 
+Todos los procesos tienen reglas, en donde si se cumple una condición haz un conjunto de pasos, en caso contrario, haz otro conjunto de pasos diferente. Las declaraciones condicionar nos permitirán o evitarán la ejecución de ciertas acciones en una función condición determinada.
 
-- [**`EJERCICIOS SESIÓN 2`**](Ejercicios/Readme.md)
+- [**`EJEMPLO 5`**](Example-05/README.md)
+- [**`RETO 2`**](Challenge-02/README.md)
+- [**`EJEMPLO 6`**](Example-06/README.md)
+- [**`RETO 3`**](Challenge-03/README.md)
+
+---
 
 ## 5. Postwork :memo:
 Aplica lo todo lo que aprendiste durante la sesión a tu proyecto personal.
