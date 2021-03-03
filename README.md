@@ -51,7 +51,7 @@ El proyecto será construir la automatización del proceso que tu escojas:
 
 - Identificar el proceso a automatizar y cada uno de sus pasos.
 - Identificar cuáles van a ser las entradas y salidas del proceso a automatizar.
-- Identificar los pasos con estructuras condicionales y cíclicas.
+- Identificar los pasos con estructuras condicionales, cíclicas y casos especiales.
 - Prepación del proyecto con todo lo necesario.
 - Construir el robot que cumpla el objetivo con base a las mejores prácticas de UiPath y Pepsico.
 
