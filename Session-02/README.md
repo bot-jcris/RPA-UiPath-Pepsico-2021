@@ -4,15 +4,19 @@
 
 ## 1. Objetivos :dart:
 
-- ...
-- ...
-- ...
+- Aprender a ejecutar un proyecto.
+- Conocer el flujo de trabajo *Sequence*.
+- Aprender a crear y utilizar variables. 
+- Aprender a crear y utilizar argumentos. 
+- Conocer los métodos *Length*,*Replace*,*Concat*,*Contains*,*Substring*.
+- Conocer la importancia de las declaracionales condificionales *IF* y *Switch*. 
+- Conocer la actividad *Message Box*, *Input Dialog*. 
 
 ## 2. Prework :notebook_with_decorative_cover:
 
 Previo a tu sesión remota, es importante revises esta información, funcionará para introducirte al tema y que aproveches al máximo el tiempo con el instructor.
 
-- [**`POSTWORK SESIÓN 2`**](Postwork/Readme.md)
+- [**`PREWORK SESIÓN 2`**](https://github.com/bot-jcris/RPA-UiPath-Pepsico-2021/raw/main/Session-01/material/Prework_%20Sesi%C3%B3n%201_%20Primeros%20pasos.pdf)
 
 ## 3. Contenido :blue_book:
 

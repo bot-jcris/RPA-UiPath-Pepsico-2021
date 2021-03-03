@@ -2,7 +2,6 @@
 
 <div>
 
-
 ## 1. Objetivos :dart:
 
 - Identificar el número de actividades susceptibles a automatizar del rol que desempeñas. Identificar cuáles de tus actividades cotidianas son susceptibles a automatizar.
@@ -15,7 +14,7 @@
 
 Previo a tu sesión remota, es importante revises esta información, funcionará para introducirte al tema y que aproveches al máximo el tiempo con el instructor.
 
-- [**`POSTWORK SESIÓN 1`**](https://github.com/bot-jcris/RPA-UiPath-Pepsico-2021/raw/main/Session-01/material/Prework_%20Sesi%C3%B3n%201_%20Primeros%20pasos.pdf)
+- [**`PREWORK SESIÓN 1`**](https://github.com/bot-jcris/RPA-UiPath-Pepsico-2021/raw/main/Session-01/material/Prework_%20Sesi%C3%B3n%201_%20Primeros%20pasos.pdf)
 
 ## 3. Contenido :blue_book:
 
