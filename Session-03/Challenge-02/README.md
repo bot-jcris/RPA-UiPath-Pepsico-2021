@@ -1,4 +1,4 @@
-# Challenge 02: Crear "n" archivos - Parte 2
+# Reto 02: Crear "n" archivos - Parte 2
 
 <div style="text-align: justify;">
 

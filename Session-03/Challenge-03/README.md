@@ -1,4 +1,4 @@
-# Challenge 03: Copiar archivos a carpetas según sea el caso
+# Reto 03: Copiar archivos a carpetas según sea el caso
 
 <div style="text-align: justify;">
 

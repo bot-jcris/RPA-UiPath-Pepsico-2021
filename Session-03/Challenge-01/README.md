@@ -1,4 +1,4 @@
-# Challenge 01: Crear un archivo txt con un nombre ingresado por el usuario
+# Reto 01: Crear un archivo txt con un nombre ingresado por el usuario
 
 <div style="text-align: justify;">
 
@@ -12,8 +12,8 @@ Crear un archivo de texto (txt) dentro de la ruta **C:\UiPathCourse\A** y el nom
 
 ## 3. Indicaciones :lock:
 
-    - Crear un archivo con el nombre CrearArchivoNombreDinámico.
-    - Utilizar el flujo de trabajo *Flowchart*.
-    - Utilizar las actividades *Input Dialog*, *Flow Decision* y *Message Box*.
+- Crear un archivo con el nombre CrearArchivoNombreDinámico.
+- Utilizar el flujo de trabajo *Flowchart*.
+- Utilizar las actividades *Input Dialog*, *Flow Decision* y *Message Box*.
 
 </div>

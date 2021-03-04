@@ -100,7 +100,7 @@
 
 <br>
 
-9. Ejecutar el flujo y revisar los resultados.`
+9. Ejecutar el flujo y revisar los resultados.
 
 
 </div>
