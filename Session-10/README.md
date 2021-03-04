@@ -12,7 +12,7 @@
 
 Previo a tu sesión remota, es importante revises esta información, funcionará para introducirte al tema y que aproveches al máximo el tiempo con el instructor.
 
-- [**`POSTWORK SESIÓN 10`**](Postwork/Readme.md)
+- [**`PREWORK SESIÓN 10`**](Prework/README.md)
 
 ## 3. Contenido :blue_book:
 
@@ -22,8 +22,8 @@ Previo a tu sesión remota, es importante revises esta información, funcionará
 
 En el tema 1 veremos...
 
-- [**`EJEMPLO 1`**](Ejemplo-01/Readme.md)
-- [**`RETO 1`**](Reto-01/Readme.md)
+- [**`EJEMPLO 1`**](Ejemplo-01/README.md)
+- [**`RETO 1`**](Reto-01/README.md)
 
 ---
 
@@ -31,21 +31,15 @@ En el tema 1 veremos...
 
 En el tema 2 veremos...
 
-- [**`EJEMPLO 2`**](Ejemplo-02/Readme.md)
-- [**`RETO 2`**](Reto-02/Readme.md)
+- [**`EJEMPLO 2`**](Ejemplo-02/README.md)
+- [**`RETO 2`**](Reto-02/README.md)
 
 ---
 
-## 4. Ejercicios para practicar :hammer:
-
-Aplica lo todo lo que aprendiste durante la sesión en estos ejercicios. 
-
-- [**`EJERCICIOS SESIÓN 10`**](Ejercicios/Readme.md)
-
-## 5. Postwork :memo:
+## 4. Postwork :memo:
 Aplica lo todo lo que aprendiste durante la sesión a tu proyecto personal.
 
-- [**`POSTWORK SESIÓN 10`**](Postwork/Readme.md)
+- [**`POSTWORK SESIÓN 10`**](Postwork/README.md)
 
 <br>
 

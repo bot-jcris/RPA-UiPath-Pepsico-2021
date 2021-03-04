@@ -17,7 +17,7 @@
 
 Previo a tu sesión remota, es importante revises esta información, funcionará para introducirte al tema y que aproveches al máximo el tiempo con el instructor.
 
-- [**`POSTWORK SESIÓN 3`**](Postwork/README.md)
+- [**`PREWORK SESIÓN 3`**](https://github.com/bot-jcris/RPA-UiPath-Pepsico-2021/raw/main/Session-03/material/Prework_%20Sesi%C3%B3n%203_%20Estructuras.pdf)
 
 ## 3. Contenido :blue_book:
 
@@ -27,17 +27,22 @@ Previo a tu sesión remota, es importante revises esta información, funcionará
 
 Cualquier proceso de automatización requiere el manejo de directorios para la lectura, descarga o creación de diversos archivo. En esta lección vamos a conocer las principales actividades para su manipulación.
 
-- [**`EJEMPLO 1`**](Ejemplo-01/README.md)
-- [**`RETO 1`**](Reto-01/README.md)
+- [**`EJEMPLO 1`**](Example-01/README.md)
+- [**`EJEMPLO 2`**](Example-02/README.md)
+- [**`EJEMPLO 3`**](Example-03/README.md)
+- [**`RETO 1`**](Challenge-01/README.md)
+- [**`EJEMPLO 4`**](Example-04/README.md)
 
 ---
 
-### <ins>Tema 2</ins>
+### <ins>Estructuras cíclicas</ins>
 
-En el tema 2 veremos...
+La transaccionabilidad es un concepto elemental existente en la mayoría de los procesos de automatización. La necesidad de procesar una gran cantidad de elementos, requiere de apoyo de estructuras que nos facilitan la mecánica para su procesamiento. Las estructuras WHILE y FOR EACH son un gran ejemplo de ello y veremos ejemplos de como utilizarlos
 
-- [**`EJEMPLO 2`**](Ejemplo-02/README.md)
-- [**`RETO 2`**](Reto-02/README.md)
+- [**`EJEMPLO 5`**](Example-05/README.md)
+- [**`RETO 2`**](Challenge-02/README.md)
+- [**`EJEMPLO 6`**](Example-06/README.md)
+- [**`RETO 3`**](Challenge-03/README.md)
 
 ---
 

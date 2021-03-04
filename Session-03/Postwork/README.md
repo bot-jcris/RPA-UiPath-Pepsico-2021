@@ -1,11 +1,12 @@
-# Postwork Sesión 2
+# Postwork Sesión 3
 
 <div>
 
 ## 1. Objetivos :dart:
 
-- Definir los pasos que va a realizar tu proceso.
-- Identicar pasos condicionales
+- Crear la estructura de carpetas que requiere tu proceso.
+- Organizar los archivos de entrada.
+- Localizar los pasos cíclicos que ocurren dentro de tu proceso.
 
 ## 2. Requisitos :notebook_with_decorative_cover:
 
@@ -16,8 +17,8 @@
 ### Planteamiento del proyecto
 
 En este postwork, deberás:
-- Documentar de manera detallada los pasos que se deben realizar para la automatización de tu proceso. 
-- Evaluar si existen pasos condicionales dentro del flujo de tu proceso. Deberás definir cual sería la condición a evaluar y cuáles serían los pasos para cada uno de los caminos posibles.
+- Construir la estructura de carpetas (en caso de ser necesario) para los archivos de entrada que vas a procesar, definir la ubicación de los mismos y colocar los ejemplos con los que vas a trabajar.
+- Identificar cuáles son los momentos en donde un mismo conjunto de pasos se realiza para determinadas condiciones, ir modelando cualés deberían ser la estructuras a utilizar y cuales serán las condiciones para lograrlo.
 
 En caso de que tengas dudas sobre el planteamiento de tu proyecto, contacta a tu instructor.
 

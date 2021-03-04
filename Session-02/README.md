@@ -16,7 +16,7 @@
 
 Previo a tu sesión remota, es importante revises esta información, funcionará para introducirte al tema y que aproveches al máximo el tiempo con el instructor.
 
-- [**`PREWORK SESIÓN 2`**](https://github.com/bot-jcris/RPA-UiPath-Pepsico-2021/raw/main/Session-02/material/Prework_%20Sesi%C3%B3n%202_%20Estructuras.pdf)
+- [**`PREWORK SESIÓN 2`**](https://github.com/bot-jcris/RPA-UiPath-Pepsico-2021/raw/main/Session-02/material/Prework_%20Sesi%C3%B3n%202_%20Variables%20y%20Argumentos.pdf)
 
 ## 3. Contenido :blue_book:
 
