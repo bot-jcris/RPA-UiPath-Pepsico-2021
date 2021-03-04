@@ -13,7 +13,7 @@
 ## :wave: Bienvenido
 
 El curso de **RPA con UiPath** te brindará las capacidades necesarias para **crear automatizaciones profesionales** haciendo uso de las mejores prácticas para su construcción, no es necesario que tengas conocimientos en programación o en automatización, en este curso arrancamos **desde cero** hasta poder automatizar los escenarios más comunes en la vida cotidiana en **Pepsico**.
-
+  
 ## :dart: Objetivo
 
 El objetivo es brindarle una visión general sobre RPA y prepararte para desarrollar robots de software usando UiPath, para que puedas comenzar a **ahorrar tiempo y dinero** en Pepsico y **mejorar tu carrera**.
@@ -27,9 +27,9 @@ El objetivo es brindarle una visión general sobre RPA y prepararte para desarro
 ## :bookmark_tabs: Temario
 - [`Sesión 01:` Primeros Pasos](Session-01/README.md)
 
-- [`Sesión 02:` Estructuras](Session-02/README.md)
+- [`Sesión 02:` Variables y Argumentos](Session-02/README.md)
 
-- [`Sesión 03:` Manipulación de la información](Session-03/README.md)
+- [`Sesión 03:` Estructuras](Session-03/README.md)
 
 - [`Sesión 04:` Manipulación de Excel](Session-04/README.md)
 

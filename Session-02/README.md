@@ -1,4 +1,4 @@
-# Sesión 02: Estructuras
+# Sesión 02: Variables y argumentos
 
 <div>
 
