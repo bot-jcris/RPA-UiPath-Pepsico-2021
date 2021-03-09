@@ -36,7 +36,7 @@ Durante el desarrollo de un proceso de automatización vamos a necesitar un gran
 
 ### <ins>Declaraciones condicionales</ins>
 
-Todos los procesos tienen reglas, en donde si se cumple una condición haz un conjunto de pasos, en caso contrario, haz otro conjunto de pasos diferente. Las declaraciones condicionar nos permitirán o evitarán la ejecución de ciertas acciones en una función condición determinada.
+Todos los procesos tienen reglas, en donde si se cumple una condición haz un conjunto de pasos, en caso contrario, haz otro conjunto de pasos diferente. Las declaraciones condicionales nos permitiren la ejecución de ciertas acciones en una función de una condición determinada.
 
 - [**`EJEMPLO 5`**](Example-05/README.md)
 - [**`RETO 2`**](Challenge-02/README.md)

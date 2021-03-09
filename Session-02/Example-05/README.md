@@ -6,6 +6,15 @@
 
 - Conocer la importancia de la declaración condicional *IF*.
 - Conocer la actividad *Input Dialog* (*Text Box*).
+- Construir el siguiente flujo:
+
+<div align="center">
+
+<img src="assets/image0.png" align="center">
+
+</div>
+
+<br>
 
 ## 2. Desarrollo :hammer:
 

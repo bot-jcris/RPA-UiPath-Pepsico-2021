@@ -6,6 +6,15 @@
 
 - Conocer la importancia de la declaración condicional *Switch*.
 - Conocer la actividad *Input Dialog* (*Multiple Choice*).
+- Construir el siguiente flujo:
+
+<div align="center">
+
+<img src="assets/image0.png" align="center">
+
+</div>
+
+<br>
 
 ## 2. Desarrollo :hammer:
 
@@ -78,15 +87,7 @@
 
 <br>
 
-7. Realizar lo mismo para cada una de las opciones anteriores: Azul, Verde, Otro.
-
-<div align="center">
-
-<img src="assets/image07.png" align="center">
-
-</div>
-
-<br>
+7. Realizar lo mismo para cada una de las opciones anteriores: Azul y Verde. La sesión *Default* será la sección para cualquiera otra opción que no sea Rojo, Azul o Verde.
 
 8. En cada uno de los casos agregar un *Message Box*, con el mensaje según corresponda:
     - Rojo:  "Su color favorito es el rojo"

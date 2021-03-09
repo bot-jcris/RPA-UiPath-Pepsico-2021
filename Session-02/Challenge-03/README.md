@@ -13,7 +13,7 @@
     - A) 14:00 hrs.
     - B) 15:00 hrs.
     - C) 13:00 hrs.
-    - D) Terminando esta sesión no me ven hasta el lunes.
+    - D) Terminando esta sesión no sabrán de mí hasta mañana.
 
     Dependiendo de la opción escogida, mostrar un mensaje según la siguiente relación:
 
