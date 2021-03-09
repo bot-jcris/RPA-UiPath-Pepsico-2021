@@ -1,4 +1,4 @@
-# Sesión 03: Estructuras
+# Sesión 03: Archivos y carpetas
 
 <div>
 
@@ -17,7 +17,7 @@
 
 Previo a tu sesión remota, es importante revises esta información, funcionará para introducirte al tema y que aproveches al máximo el tiempo con el instructor.
 
-- [**`PREWORK SESIÓN 3`**](https://github.com/bot-jcris/RPA-UiPath-Pepsico-2021/raw/main/Session-03/material/Prework_%20Sesi%C3%B3n%203_%20Estructuras.pdf)
+- [**`PREWORK SESIÓN 3`**](https://github.com/bot-jcris/RPA-UiPath-Pepsico-2021/raw/main/Session-03/material/Prework_%20Sesi%C3%B3n%203_%20Archivos%20y%20Carpetas.pdf)
 
 ## 3. Contenido :blue_book:
 

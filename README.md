@@ -29,7 +29,7 @@ El objetivo es brindarle una visión general sobre RPA y prepararte para desarro
 
 - [`Sesión 02:` Variables y Argumentos](Session-02/README.md)
 
-- [`Sesión 03:` Estructuras](Session-03/README.md)
+- [`Sesión 03:` Archivos y carpetas](Session-03/README.md)
 
 - [`Sesión 04:` Manipulación de Excel](Session-04/README.md)
 
