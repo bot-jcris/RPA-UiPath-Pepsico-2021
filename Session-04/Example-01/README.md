@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="assets/image0.png" align="center" width="50%">
+<img src="assets/image0.png" align="center" width="30%">
 
 </div>
 
