@@ -1,6 +1,6 @@
 # Sesión 04: Estructuras cíclicas
-<div>
 
+<div>
 
 ## 1. Objetivos :dart:
 
@@ -10,7 +10,7 @@
 
 Previo a tu sesión remota, es importante revises esta información, funcionará para introducirte al tema y que aproveches al máximo el tiempo con el instructor.
 
-- [**`PREWORK SESIÓN 4`**](Prework/README.md)
+- [**`PREWORK SESIÓN 4`**](https://github.com/bot-jcris/RPA-UiPath-Pepsico-2021/raw/main/Session-04/material/Prework_%20Sesi%C3%B3n%204_%20Estructuras%20C%C3%ADclicas.pdf)
 
 ## 3. Contenido :blue_book:
 
