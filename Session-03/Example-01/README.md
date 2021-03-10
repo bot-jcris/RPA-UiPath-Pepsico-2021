@@ -40,7 +40,8 @@
 
 <br>
 
-4. Escribir la siguiente ruta: **"C:\UiPathCourse\A"**
+4. Escribir la siguiente ruta: `"C:\UiPathCourse\A"`
+
 
 <div align="center">
 
@@ -59,6 +60,5 @@
 </div>
 
 <br>
-
 
 </div>

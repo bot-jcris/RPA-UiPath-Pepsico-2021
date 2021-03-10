@@ -1,17 +1,17 @@
-# Ejemplo 03: Crear un archivo no existente
+# Ejemplo 03: Crear un archivo
 
 <div style="text-align: justify;">
 
 ## 1. Objetivos :dart:
 
-- Conocer los pasos para la verificación de la existencia de un archivo específico.
-- Entender la diferencia entre el flujo de trabajo *Sequence* y *Flowchart*.
-- Aprender a utilizar la actividad *Flow Decision*.
-- Aprender a utilizar el comando *File.Exists()*.
+- Aprender a utilizar la actividad *Create File*.
 
 ## 2. Desarrollo :hammer:
 
-1. Crear el archivo **CrearArchivoNoExistente** (utiliza el flujo de trabajo *Flowchart*). Añadir la actividad *Flow Decision* y conectarla al nodo *Start*.
+1. Crear el archivo **CrearArchivo** (utiliza el flujo de trabajo *Flowchart*). Añadir la actividad **Create File** e ingresar los siguientes valores:
+
+    - File location: **`"C:\UiPathCourses\A"`**
+    - File name: **`"nuevo.txt"`**
 
 <div align="center">
 
@@ -21,7 +21,7 @@
 
 <br>
 
-2. Selecciona la actividad que acabas de agregar, dirigete al panel de *Properties* y da clic en los "..." de la propiedad *Condition*.
+2. Ejecutar y observar el archivo creado en la ruta especificada.
 
 <div align="center">
 
@@ -30,31 +30,5 @@
 </div>
 
 <br>
-
-3. Escribir la siguiente condición: **File.Exists("C:\UiPathCourse\A\nuevo.txt")**. Y dar clic en *OK*.
-
-<div align="center">
-
-<img src="assets/image03.png" align="center">
-
-</div>
-
-<br>
-
-4. Añadir dos *Message Box*, y unir a la actividad *Flow Decision*, tal y como se muestra en la imagen.
-
-<div align="center">
-
-<img src="assets/image04.png" align="center">
-
-</div>
-
-<br>
-
-4. Según el camino del *Message Box*, vas a escribir lo siguiente:
-    - Para el camino del *True*: "Existe"
-    - Para el camino del *False*: "No existe"
-
-5. Ejecuta el proceso y dependiendo de la existencia del archivo recibirás el mensaje correspondiente.
 
 </div>

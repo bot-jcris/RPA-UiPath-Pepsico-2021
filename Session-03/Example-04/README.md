@@ -1,16 +1,17 @@
-# Ejemplo 04: Copiar, mover y eliminar un archivo
+# Ejemplo 04: Validar existencia de archivo
 
 <div style="text-align: justify;">
 
 ## 1. Objetivos :dart:
 
-- Aprender a cómo copiar, mover y eliminar un archivo
-- Aprender a utilizar la actividad *Copy File*, *Move File* y *Delete*.
-- Entender la propiedad *Overwrite*.
+- Conocer los pasos para la verificación de la existencia de un archivo específico.
+- Entender la diferencia entre el flujo de trabajo *Sequence* y *Flowchart*.
+- Aprender a utilizar la actividad *Flow Decision*.
+- Aprender a utilizar el comando *File.Exists()*.
 
 ## 2. Desarrollo :hammer:
 
-1. Crear manualmente las carpetas con nombre **"B"** y **"C"** en el directorio "C:\UiPathCourse\\".
+1. Crear el archivo **CrearArchivoNoExistente** (utiliza el flujo de trabajo *Flowchart*). Añadir la actividad *Flow Decision* y conectarla al nodo *Start*.
 
 <div align="center">
 
@@ -20,7 +21,7 @@
 
 <br>
 
-2. Dentro de la carpeta "A", solo deberá existir el archivo "test.txt".
+2. Selecciona la actividad que acabas de agregar, dirigete al panel de *Properties* y da clic en los "..." de la propiedad *Condition*.
 
 <div align="center">
 
@@ -30,7 +31,10 @@
 
 <br>
 
-3. Crear el archivo ***CopiarMoverEliminarArchivo.xaml*** (con el flujo de trabajo *Flowchart*) y añadir la actividad **Copy File**.
+3. Escribir la siguiente condición: 
+    **`File.Exists("C:\UiPathCourse\A\nuevo.txt")`**
+
+    Dar clic en *OK*.
 
 <div align="center">
 
@@ -40,12 +44,7 @@
 
 <br>
 
-4. Dentro de la actividad *Copy File* ingresar los siguientes valores:
-
-- From: **"C:\UiPathCourse\A\test.txt"**
-- To: **"C:\UiPathCourse\B\test.txt"**
-
-    **NOTA:** Seleccionar la opción *Overwrite*.
+4. Añadir dos *Message Box*, y unir a la actividad *Flow Decision*, tal y como se muestra en la imagen.
 
 <div align="center">
 
@@ -55,52 +54,10 @@
 
 <br>
 
-5. Añadir la actividad **Move File**, tal y como se muestra en la imagen:
+4. Según el camino del *Message Box*, vas a escribir lo siguiente:
+    - Para el camino del *True*: **`"Existe"`**
+    - Para el camino del *False*: **`"No existe"`**
 
-<div align="center">
-
-<img src="assets/image05.png" align="center">
-
-</div>
-
-<br>
-
-6. Dentro de la actividad *Move File* ingresar los siguientes valores:
-
-- From: **"C:\UiPathCourse\B\test.txt"**
-- To: **"C:\UiPathCourse\C\test.txt"**
-
-    **NOTA:** Seleccionar la opción *Overwrite*.
-
-<div align="center">
-
-<img src="assets/image06.png" align="center">
-
-</div>
-
-<br>
-
-7. Añadir la actividad **Delete**, tal y como se muestra en la imagen:
-
-<div align="center">
-
-<img src="assets/image07.png" align="center">
-
-</div>
-
-<br>
-
-8. Seleccionar la actividad *Delete*, ir al panel de *Properties* y seleccionar el botón "..." de la propiedad *Path*. Escribir lo siguiente: **C:\UiPathCourse\C\test.txt** y dar clic en el botón *OK*.
-
-<div align="center">
-
-<img src="assets/image08.png" align="center">
-
-</div>
-
-<br>
-
-9. Ejecutar el flujo y revisar los resultados.
-
+5. Ejecuta el proceso y dependiendo de la existencia del archivo recibirás el mensaje correspondiente.
 
 </div>

@@ -1,20 +1,19 @@
-# Ejemplo 06: Obtención del nombre de archivos en un directorio
+# Ejemplo 06: Eliminar un archivo y una carpeta
 
 <div style="text-align: justify;">
 
 ## 1. Objetivos :dart:
 
-- Aprender a recorrer los archivos de una carpeta.
-- Entender el funcionamiento de la estructura *For Each*.
-- Aprender el funcionamiento de los comandos *Path.GetFileNameWithoutExtension()* y *Path.GetExtension()*
+- Aprender a cómo eliminar un archivo y una carpeta
+- Aprender a utilizar la actividad *Delete*.
 
 ## 2. Desarrollo :hammer:
 
-1. Utilizaremos la carpeta **"D"** con los cinco archivos de texto ya creados.
+1. Verificar que en el directorio "C:\UiPathCourse\\" tengas dos carpetas: **B** y **C**. Que la carpeta B este vacía y la carpeta C tengo solamente el archivo "test.txt".
 
-2. Crear el archivo ***LecturaArchivosDeCarpeta.xaml*** (con el flujo de trabajo *Flowchart*).
+2. Crear el archivo ***EliminarArchivoCarpeta.xaml*** (con el flujo de trabajo *Flowchart*) 
 
-3. Añadir la actividad ***For Each***, tal como se muestra a continuación:
+3. Buscar y añadir la actividad **Delete**, tal y como se muestra en la imagen:
 
 <div align="center">
 
@@ -24,7 +23,7 @@
 
 <br>
 
-4. Seleccionar la actividad, ir al panel de *Properties* y verificar que la propiedad ***TypeArgument*** tenga la opción ***String***.
+4. Dar doble clic a la actividad *Delete* y escribir lo siguiente: **`"C:\UiPathCourse\B"`**
 
 <div align="center">
 
@@ -34,10 +33,7 @@
 
 <br>
 
-5. Escribir los siguientes valores:
-    - *ForEach* ***item*** *In* **Directory.GetFiles("C:\UiPathCourse\D\")**
-
-    Dentro del *Body*, añadir la actividad *MessageBox* y escribir el siguiente texto: ***Path.GetFileNameWithoutExtension(item) +":"+ Path.GetExtension(item)***
+5. Añadir una segunda actividad *Delete*.
 
 <div align="center">
 
@@ -47,6 +43,18 @@
 
 <br>
 
-6. Ejecutar el flujo y ver los resultados.
+6. Dar doble clic a la segunda actividad *Delete* y escribir lo siguiente: **`"C:\UiPathCourse\C\test.txt"`**
+
+<div align="center">
+
+<img src="assets/image06.png" align="center">
+
+</div>
+
+<br>
+
+7. Ejecutar el flujo y revisar los resultados.
+
+<br>
 
 </div>

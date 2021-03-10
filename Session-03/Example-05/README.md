@@ -1,26 +1,51 @@
-# Ejemplo 05: Crear "n" archivos
+# Ejemplo 05: Copiar y mover un archivo
 
 <div style="text-align: justify;">
 
 ## 1. Objetivos :dart:
 
-- Aprender a cómo crear de manera dinámica archivos de texto.
-- Entender el funcionamiento de la estructura *While*.
+- Aprender a cómo copiar y mover un archivo
+- Aprender a utilizar las actividades *Copy File* y *Move File*.
+- Entender la propiedad *Overwrite*.
 
 ## 2. Desarrollo :hammer:
 
-1. Crear manualmente la carpeta **"D"**.
+1. Crear manualmente las carpetas con nombre **"B"** y **"C"** en el directorio "C:\UiPathCourse\\".
 
-2. Crear el archivo ***CrearN_Archivos.xaml*** (con el flujo de trabajo *Flowchart*).
+<div align="center">
 
-3. Crear una variable con las siguientes características:
+<img src="assets/image01.png" align="center">
 
-    - Name: **str_contador**
-    - Variable type: **Int32**
-    - Scope: **CrearN_Archivos**
-    - Default: **1**
+</div>
 
-4. Añadir la actividad ***While***, tal y como se muestra en la imagen:
+<br>
+
+2. Dentro de la carpeta "A", solo deberá existir el archivo "test.txt".
+
+<div align="center">
+
+<img src="assets/image02.png" align="center">
+
+</div>
+
+<br>
+
+3. Crear el archivo ***CopiarMoverArchivo.xaml*** (con el flujo de trabajo *Flowchart*) y añadir la actividad **Copy File**.
+
+<div align="center">
+
+<img src="assets/image03.png" align="center">
+
+</div>
+
+<br>
+
+4. Dentro de la actividad *Copy File* ingresar los siguientes valores:
+
+- From: **`"C:\UiPathCourse\A\test.txt"`**
+- To: **`"C:\UiPathCourse\B\test.txt"`**
+
+    **NOTA:** Seleccionar la opción *Overwrite*.
 
 <div align="center">
 
@@ -30,7 +55,7 @@
 
 <br>
 
-5. Escribir la siguiente condición: **str_contador<=5**.
+5. Añadir la actividad **Move File**, tal y como se muestra en la imagen:
 
 <div align="center">
 
@@ -40,10 +65,12 @@
 
 <br>
 
-6. Dentro del *Body* de la actividad *While* añadir la actividad *Multiple Assign* y escribir los siguientes valores:
+6. Dentro de la actividad *Move File* ingresar los siguientes valores:
 
-    - Del lado izquierdo: **str_contador**
-    - Del lado derecho: **str_contador+1**
+- From: **`"C:\UiPathCourse\B\test.txt"`**
+- To: **`"C:\UiPathCourse\C\test.txt"`**
+
+    **NOTA:** Seleccionar la opción *Overwrite*.
 
 <div align="center">
 
@@ -53,19 +80,8 @@
 
 <br>
 
-7. Añadir la actividad *Create file* como se muestra en la imagen y añadir los siguientes valores:
-
-    - File location: **"C:\UiPathCourse\D\"**
-    - File name: **str_contador.ToString+".txt"**
-
-<div align="center">
-
-<img src="assets/image07.png" align="center">
-
-</div>
+7. Ejecutar el flujo y revisar los resultados.
 
 <br>
-
-8. Ejecutar el flujo y ver los resultados.
 
 </div>

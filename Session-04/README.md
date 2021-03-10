@@ -1,13 +1,10 @@
-# Sesión 04: Manipulación de Excel
-
+# Sesión 04: Estructuras cíclicas
 <div>
 
 
 ## 1. Objetivos :dart:
 
-- ...
-- ...
-- ...
+- Conocer las actividades *While* y *For each*.
 
 ## 2. Prework :notebook_with_decorative_cover:
 
@@ -19,21 +16,14 @@ Previo a tu sesión remota, es importante revises esta información, funcionará
 
 ---
 
-### <ins>Tema 1</ins>
+### <ins>Estructuras cíclicas</ins>
 
-En el tema 1 veremos...
+La transaccionabilidad es un concepto elemental existente en la mayoría de los procesos de automatización. La necesidad de procesar una gran cantidad de elementos, requiere de apoyo de estructuras que nos facilitan la mecánica para su procesamiento. Las estructuras WHILE y FOR EACH son un gran ejemplo de ello y veremos ejemplos de como utilizarlos
 
-- [**`EJEMPLO 1`**](Ejemplo-01/README.md)
-- [**`RETO 1`**](Reto-01/README.md)
-
----
-
-### <ins>Tema 2</ins>
-
-En el tema 2 veremos...
-
-- [**`EJEMPLO 2`**](Ejemplo-02/README.md)
-- [**`RETO 2`**](Reto-02/README.md)
+- [**`EJEMPLO 5`**](Example-05/README.md)
+- [**`RETO 2`**](Challenge-02/README.md)
+- [**`EJEMPLO 6`**](Example-06/README.md)
+- [**`RETO 3`**](Challenge-03/README.md)
 
 ---
 

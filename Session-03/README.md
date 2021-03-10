@@ -35,17 +35,6 @@ Cualquier proceso de automatización requiere el manejo de directorios para la l
 
 ---
 
-### <ins>Estructuras cíclicas</ins>
-
-La transaccionabilidad es un concepto elemental existente en la mayoría de los procesos de automatización. La necesidad de procesar una gran cantidad de elementos, requiere de apoyo de estructuras que nos facilitan la mecánica para su procesamiento. Las estructuras WHILE y FOR EACH son un gran ejemplo de ello y veremos ejemplos de como utilizarlos
-
-- [**`EJEMPLO 5`**](Example-05/README.md)
-- [**`RETO 2`**](Challenge-02/README.md)
-- [**`EJEMPLO 6`**](Example-06/README.md)
-- [**`RETO 3`**](Challenge-03/README.md)
-
----
-
 ## 4. Postwork :memo:
 Aplica lo todo lo que aprendiste durante la sesión a tu proyecto personal.
 

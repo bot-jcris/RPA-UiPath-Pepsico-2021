@@ -1,20 +1,19 @@
-# Reto 02: Crear "n" archivos - Parte 2
+# Reto 02: Crear un archivo txt con un nombre ingresado por el usuario
 
 <div style="text-align: justify;">
 
 ## 1. Objetivos :dart:
 
-- Poner en práctico lo aprendido.
+- Poner en práctica lo aprendido.
 
 ## 2. Desarrollo :hammer:
 
-Crear un flujo parecido al del ejemplo 5, en donde hagas el inverso. Crea una variable cuyo valor inicial sea 5, y que condición sea mientras la variable sea mayor a 0, crear un archivo con el nombre del contador.
+Crear un archivo de texto (txt) dentro de la ruta **C:\UiPathCourse\A** y el nombre sea ingresado por el usuario. Validar que el archivo no se haya creado previamente para crearlo.
 
 ## 3. Indicaciones :lock:
 
-- Crear un archivo con el nombre ***CrearN_Archivos2.xaml***.
+- Crear un archivo con el nombre CrearArchivoNombreDinámico.
 - Utilizar el flujo de trabajo *Flowchart*.
-- Crear manualmente la carpeta **"E"** y realizar el ejercicio dentro de esa carpeta.
-- Utilizar las actividades *While* y *Create File* y *Multiple Assign*.
+- Utilizar las actividades *Input Dialog*, *Flow Decision* y *Message Box*.
 
 </div>
