@@ -8,10 +8,8 @@
 - Aprender a crear/copiar/mover/eliminar un archivo.
 - Conocer el flujo de trabajo *Flowchart*.
 - Entender la diferencia entre el flujo de trabajo *Sequence* y *Flowchart*.
-- Aprender a recorrer los archivos de una carpeta.
-- Entender el funcionamiento de la estructura *While* y *For Each*.
 - Aprender a utilizar las actividades *Create Folder*,*Create File*,*Flow Decision*,*Copy File*, *Move File*,*Delete*.
-- Aprender a utilizar los comandos *File.Exists()*, *Path.GetFileNameWithoutExtension()* y *Path.GetExtension()*.
+- Aprender a utilizar el comando *File.Exists()*.
 
 ## 2. Prework :notebook_with_decorative_cover:
 
@@ -29,9 +27,13 @@ Cualquier proceso de automatización requiere el manejo de directorios para la l
 
 - [**`EJEMPLO 1`**](Example-01/README.md)
 - [**`EJEMPLO 2`**](Example-02/README.md)
-- [**`EJEMPLO 3`**](Example-03/README.md)
 - [**`RETO 1`**](Challenge-01/README.md)
+- [**`EJEMPLO 3`**](Example-03/README.md)
+- [**`RETO 2`**](Challenge-01/README.md)
 - [**`EJEMPLO 4`**](Example-04/README.md)
+- [**`EJEMPLO 5`**](Example-05/README.md)
+- [**`EJEMPLO 6`**](Example-06/README.md)
+- [**`EJEMPLO 7`**](Example-07/README.md)
 
 ---
 

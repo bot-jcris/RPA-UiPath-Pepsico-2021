@@ -4,7 +4,9 @@
 
 ## 1. Objetivos :dart:
 
-- Conocer las actividades *While* y *For each*.
+- Aprender a recorrer los archivos de una carpeta.
+- Entender el funcionamiento de la estructura *While* y *For Each*.
+- Aprender a utilizar los comandos *Path.GetFileNameWithoutExtension()* y *Path.GetExtension()*.
 
 ## 2. Prework :notebook_with_decorative_cover:
 
