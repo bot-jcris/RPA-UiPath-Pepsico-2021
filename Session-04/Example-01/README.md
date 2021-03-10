@@ -1,4 +1,4 @@
-# Ejemplo 05: Crear "n" archivos
+# Ejemplo 01: Crear "N" archivos
 
 <div style="text-align: justify;">
 
@@ -6,6 +6,15 @@
 
 - Aprender a cómo crear de manera dinámica archivos de texto.
 - Entender el funcionamiento de la estructura *While*.
+- Construir el siguiente flujo:
+
+<div align="center">
+
+<img src="assets/image0.png" align="center" width="50%">
+
+</div>
+
+<br>
 
 ## 2. Desarrollo :hammer:
 
@@ -15,10 +24,9 @@
 
 3. Crear una variable con las siguientes características:
 
-    - Name: **str_contador**
-    - Variable type: **Int32**
-    - Scope: **CrearN_Archivos**
-    - Default: **1**
+    - Name: **`str_contador`**
+    - Variable type: **`Int32`**
+    - Default: **`1`**
 
 4. Añadir la actividad ***While***, tal y como se muestra en la imagen:
 
