@@ -5,6 +5,7 @@
 ## 1. Objetivos :dart:
 
 - Entender el funcionamiento de la estructura *While*.
+- Conocer la variable *Boolean*.
 - Construir el siguiente flujo:
 
 <div align="center">

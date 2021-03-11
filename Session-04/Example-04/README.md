@@ -6,7 +6,7 @@
 
 - Aprender a recorrer los archivos de una carpeta.
 - Entender el funcionamiento de la estructura *For Each*.
-- Aprender el funcionamiento de los comandos *Path.GetFileNameWithoutExtension()* y *Path.GetExtension()*
+- Aprender el funcionamiento de los comandos *Directory.GetFiles*, *Path.GetFileNameWithoutExtension()* y *Path.GetExtension()*
 
 ## 2. Desarrollo :hammer:
 

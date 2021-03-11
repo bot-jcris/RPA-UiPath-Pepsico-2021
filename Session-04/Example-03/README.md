@@ -5,6 +5,7 @@
 ## 1. Objetivos :dart:
 
 - Entender el funcionamiento de la estructura *For Each*.
+- Conocer la variable *Array*.
 
 ## 2. Desarrollo :hammer:
 
