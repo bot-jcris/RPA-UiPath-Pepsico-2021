@@ -1,4 +1,4 @@
-# Reto 02: Crear "n" archivos - Parte 2
+# Reto 02: Cambiar el contenido de archivo por el nombre del mismo archivo
 
 <div style="text-align: justify;">
 
@@ -8,13 +8,13 @@
 
 ## 2. Desarrollo :hammer:
 
-Crear un flujo parecido al del ejemplo 5, en donde hagas el inverso. Crea una variable cuyo valor inicial sea 5, y que condición sea mientras la variable sea mayor a 0, crear un archivo con el nombre del contador.
+Crear un flujo que recorra todos los archivos dentro de la carpeta "D" (1.txt, 2.txt, 3.txt, 4.txt, 5.txt), y para cada archivo modificar su contenido. El contenido será el nombre del archivo, es decir, el archivo 1.txt tendrá como contenido "1", el archivo 2.txt tendrá como contenido "2" y así sucesivamente.
 
 ## 3. Indicaciones :lock:
 
-- Crear un archivo con el nombre ***CrearN_Archivos2.xaml***.
+- Crear un archivo con el nombre ***CambiarContenidoArchivoPorSuNombre***.
 - Utilizar el flujo de trabajo *Flowchart*.
-- Crear manualmente la carpeta **"E"** y realizar el ejercicio dentro de esa carpeta.
-- Utilizar las actividades *While* y *Create File* y *Multiple Assign*.
+- Utilizar las actividades *For Each* y *Write Text File*.
+- Utilizar las expresiones **`Directory.GetFiles(<Ruta de la carpeta>)`** y **`Path.GetFileNameWithoutExtension(<Ruta del archivo>)`**
 
 </div>

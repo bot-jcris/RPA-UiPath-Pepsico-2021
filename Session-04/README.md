@@ -22,10 +22,12 @@ Previo a tu sesión remota, es importante revises esta información, funcionará
 
 La transaccionabilidad es un concepto elemental existente en la mayoría de los procesos de automatización. La necesidad de procesar una gran cantidad de elementos, requiere de apoyo de estructuras que nos facilitan la mecánica para su procesamiento. Las estructuras WHILE y FOR EACH son un gran ejemplo de ello y veremos ejemplos de como utilizarlos
 
-- [**`EJEMPLO 5`**](Example-05/README.md)
+- [**`EJEMPLO 1`**](Example-01/README.md)
+- [**`EJEMPLO 2`**](Example-02/README.md)
+- [**`RETO 1`**](Challenge-01/README.md)
+- [**`EJEMPLO 3`**](Example-03/README.md)
+- [**`EJEMPLO 4`**](Example-04/README.md)
 - [**`RETO 2`**](Challenge-02/README.md)
-- [**`EJEMPLO 6`**](Example-06/README.md)
-- [**`RETO 3`**](Challenge-03/README.md)
 
 ---
 

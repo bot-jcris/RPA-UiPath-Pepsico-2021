@@ -1,4 +1,4 @@
-# Ejemplo 06: Obtención del nombre de archivos en un directorio
+# Ejemplo 04: Obtención del nombre de archivos en un directorio
 
 <div style="text-align: justify;">
 
@@ -10,7 +10,7 @@
 
 ## 2. Desarrollo :hammer:
 
-1. Utilizaremos la carpeta **"D"** con los cinco archivos de texto ya creados.
+1. Utilizaremos la carpeta **"D"** con los cinco archivos de texto ya creados (1.txt, 2.txt, 3.txt, 4.txt, 5.txt).
 
 2. Crear el archivo ***LecturaArchivosDeCarpeta.xaml*** (con el flujo de trabajo *Flowchart*).
 
@@ -24,7 +24,7 @@
 
 <br>
 
-4. Seleccionar la actividad, ir al panel de *Properties* y verificar que la propiedad ***TypeArgument*** tenga la opción ***String***.
+4. Seleccionar la actividad *For Each*, ir al panel de *Properties* y verificar que la propiedad ***TypeArgument*** tenga la opción ***String***.
 
 <div align="center">
 
@@ -35,9 +35,9 @@
 <br>
 
 5. Escribir los siguientes valores:
-    - *ForEach* ***item*** *In* **Directory.GetFiles("C:\UiPathCourse\D\")**
+    - *ForEach* ***`item`*** *In* **`Directory.GetFiles("C:\UiPathCourse\D\")`**
 
-    Dentro del *Body*, añadir la actividad *MessageBox* y escribir el siguiente texto: ***Path.GetFileNameWithoutExtension(item) +":"+ Path.GetExtension(item)***
+    Dentro del *Body*, añadir la actividad *MessageBox* y escribir el siguiente texto: ***`Path.GetFileNameWithoutExtension(item) +":"+ Path.GetExtension(item)`***
 
 <div align="center">
 

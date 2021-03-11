@@ -1,10 +1,9 @@
-# Ejemplo 01: Crear "N" archivos
+# Ejemplo 01: Ciclo infinito
 
 <div style="text-align: justify;">
 
 ## 1. Objetivos :dart:
 
-- Aprender a cómo crear de manera dinámica archivos de texto.
 - Entender el funcionamiento de la estructura *While*.
 - Construir el siguiente flujo:
 
@@ -18,17 +17,35 @@
 
 ## 2. Desarrollo :hammer:
 
-1. Crear manualmente la carpeta **"D"**.
+1. Crear el archivo ***CicloInfinito.xaml*** (con el flujo de trabajo *Flowchart*).
 
-2. Crear el archivo ***CrearN_Archivos.xaml*** (con el flujo de trabajo *Flowchart*).
+2. Crear una variable con las siguientes características:
 
-3. Crear una variable con las siguientes características:
+    - Name: **`bln_respuesta`**
+    - Variable type: **`Boolean`**
 
-    - Name: **`str_contador`**
-    - Variable type: **`Int32`**
-    - Default: **`1`**
+<div align="center">
 
-4. Añadir la actividad ***While***, tal y como se muestra en la imagen:
+<img src="assets/image02.png" align="center">
+
+</div>
+
+<br>
+
+3. Añadir la actividad ***Assign***, hacer la conexión como se muestra en la imagen y escribir los siguientes datos:
+
+    - Del lado izquierdo: **`bln_condicion`**
+    - Del lado derecho: **`True`**
+
+<div align="center">
+
+<img src="assets/image03.png" align="center">
+
+</div>
+
+<br>
+
+4. Añadir la actividad ***While*** y hacer la conexión como se muestra en la imagen:
 
 <div align="center">
 
@@ -38,7 +55,7 @@
 
 <br>
 
-5. Escribir la siguiente condición: **str_contador<=5**.
+5. Dar doble clic en la actividad *While* y escribir dentro de la sección *Condition*: *`bln_condition`*
 
 <div align="center">
 
@@ -48,10 +65,7 @@
 
 <br>
 
-6. Dentro del *Body* de la actividad *While* añadir la actividad *Multiple Assign* y escribir los siguientes valores:
-
-    - Del lado izquierdo: **str_contador**
-    - Del lado derecho: **str_contador+1**
+6. Añadir la actividad ***Write Line*** dentro del ***Body*** de la actividad *While*, tal como se muestra en la imagen y escribir en su interior: *`DateTime.Now.ToString`*
 
 <div align="center">
 
@@ -61,19 +75,6 @@
 
 <br>
 
-7. Añadir la actividad *Create file* como se muestra en la imagen y añadir los siguientes valores:
-
-    - File location: **"C:\UiPathCourse\D\"**
-    - File name: **str_contador.ToString+".txt"**
-
-<div align="center">
-
-<img src="assets/image07.png" align="center">
-
-</div>
-
-<br>
-
-8. Ejecutar el flujo y ver los resultados.
+7. Ejecutar el flujo y ver los resultados.
 
 </div>
