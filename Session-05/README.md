@@ -21,7 +21,7 @@ Previo a tu sesión remota, es importante revises esta información, funcionará
 - [**`EJEMPLO 3`**](Example-03/README.md)
 - [**`EJEMPLO 4`**](Example-04/README.md)
 - [**`EJEMPLO 5`**](Example-05/README.md)
-- [**`RETO 1`**](Challengue-01/README.md)
+- [**`RETO 1`**](Challenge-01/README.md)
 
 ---
 
