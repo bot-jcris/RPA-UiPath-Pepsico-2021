@@ -1,12 +1,8 @@
-# Sesión 05: Web Automation
+# Sesión 05: Datatables
 
 <div>
 
 ## 1. Objetivos :dart:
-
-- ...
-- ...
-- ...
 
 ## 2. Prework :notebook_with_decorative_cover:
 
