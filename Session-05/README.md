@@ -16,11 +16,11 @@ Previo a tu sesión remota, es importante revises esta información, funcionará
 
 ### <ins>Datatable</ins>
 
-- [**`EJEMPLO 1`**](Ejemplo-01/README.md)
-- [**`EJEMPLO 2`**](Ejemplo-02/README.md)
-- [**`EJEMPLO 3`**](Ejemplo-03/README.md)
-- [**`EJEMPLO 4`**](Ejemplo-04/README.md)
-- [**`EJEMPLO 5`**](Ejemplo-05/README.md)
+- [**`EJEMPLO 1`**](Example-01/README.md)
+- [**`EJEMPLO 2`**](Example-02/README.md)
+- [**`EJEMPLO 3`**](Example-03/README.md)
+- [**`EJEMPLO 4`**](Example-04/README.md)
+- [**`EJEMPLO 5`**](Example-05/README.md)
 - [**`RETO 1`**](Challengue-01/README.md)
 
 ---
