@@ -31,11 +31,11 @@ El objetivo es brindarle una visión general sobre RPA y prepararte para desarro
 
 - [`Sesión 03:` Archivos y carpetas](Session-03/README.md)
 
-- [`Sesión 04:` Manipulación de Excel](Session-04/README.md)
+- [`Sesión 04:` Estructuras cíclicos](Session-04/README.md)
 
-- [`Sesión 05:` Web Automation](Session-05/README.md)
+- [`Sesión 05:` Datatables](Session-05/README.md)
 
-- [`Sesión 06:` Desktop Application Automation](Session-06/README.md)
+- [`Sesión 06:` Fundamentos de Excel](Session-06/README.md)
 
 - [`Sesión 07:` Automatizaciones Especiales](Session-07/README.md)
 
