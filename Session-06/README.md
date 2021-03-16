@@ -27,7 +27,7 @@ El Excel forma parte del kit básico dentro de cualquier proceso de automatizaci
 - [**`EJEMPLO 1`**](Example-01/README.md)
 - [**`EJEMPLO 2`**](Example-02/README.md)
 - [**`RETO 1`**](Challenge-01/README.md)
-- [**`EJEMPLO 3`**](Example-02/README.md)
+- [**`EJEMPLO 3`**](Example-03/README.md)
 - [**`RETO 2`**](Challenge-02/README.md)
 
 ---
