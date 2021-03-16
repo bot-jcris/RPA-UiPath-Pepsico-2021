@@ -14,7 +14,7 @@
 
 Previo a tu sesión remota, es importante revises esta información, funcionará para introducirte al tema y que aproveches al máximo el tiempo con el instructor.
 
-- [**`PREWORK SESIÓN 6`**](Prework/README.md)
+- [**`PREWORK SESIÓN 6`**](https://github.com/bot-jcris/RPA-UiPath-Pepsico-2021/raw/main/Session-06/material/Prework_%20Sesi%C3%B3n%206_Fundamentos%20de%20Excel.pdf)
 
 ## 3. Contenido :blue_book:
 
