@@ -4,8 +4,8 @@
 
 ## 1. Objetivos :dart:
 
-- Conocer la actividad *Write Cell*
-- Conocer las expresiones *ToUpper* y *ToLower*
+- Conocer la actividad *Write Cell*.
+- Conocer las expresiones *ToUpper* y *ToLower*.
 
 ## 2. Desarrollo :hammer:
 

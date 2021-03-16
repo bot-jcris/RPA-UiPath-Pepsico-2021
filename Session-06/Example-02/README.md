@@ -4,7 +4,7 @@
 
 ## 1. Objetivos :dart:
 
-- Conocer la actividad *Read Cell*
+- Conocer la actividad *Read Cell*.
 
 ## 2. Desarrollo :hammer:
 

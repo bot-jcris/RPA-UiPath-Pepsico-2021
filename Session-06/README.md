@@ -22,13 +22,14 @@ Previo a tu sesión remota, es importante revises esta información, funcionará
 
 ### <ins>Actividades básicas en Excel</ins>
 
-El Excel forma parte del kit básico dentro de cualquier proceso de automatización, es la herramienta más conmunmente automatizada. Del Excel podemos obtener información valiosa para utilizar durante el proceso, y de igual manera manera el Excel nos permite guardar los resultados de la operación realizada.
+El Excel forma parte del kit básico dentro de cualquier proceso de automatización, es la herramienta más conmunmente automatizada. Del Excel podemos obtener información valiosa para utilizar durante el proceso, y de igual manera el Excel nos permite guardar los resultados de la operación realizada.
 
 - [**`EJEMPLO 1`**](Example-01/README.md)
 - [**`EJEMPLO 2`**](Example-02/README.md)
 - [**`RETO 1`**](Challenge-01/README.md)
 - [**`EJEMPLO 3`**](Example-03/README.md)
 - [**`RETO 2`**](Challenge-02/README.md)
+- [**`EJEMPLO 4`**](Example-04/README.md)
 
 ---
 
