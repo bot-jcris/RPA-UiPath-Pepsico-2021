@@ -28,7 +28,7 @@
 
 5. Crear el archivo ***LeerCeldaExcel***.xaml (con el flujo de trabajo *Sequence*).
 
-6. Añadir la actividad ***Excel Application Scope*** y escribe la ruta **`C:\UiPathCourse\Excel\Nuevo.xlsx`**
+6. Añadir la actividad ***Excel Application Scope*** y escribe la ruta **`"C:\UiPathCourse\Excel\Nuevo.xlsx"`**
 
 <div align="center">
 <img src="assets/image06.png" align="center">
@@ -44,8 +44,8 @@
 
 8. Ir al panel ***Properties*** de la actividad ***Read Cell*** y escribir los siguientes valores:
 
-    - *Input / Cell*: **`A1`**
-    - *Input / SheetName*: **`Sheet1`**
+    - *Input / Cell*: **`"A1"`**
+    - *Input / SheetName*: **`"Sheet1"`**
     - *Output / Result*: **`str_ValorCelda`** (**TIP:** Crear y utilizar la variable mediante **Ctrl + K**)
 
 <div align="center">

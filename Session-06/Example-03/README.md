@@ -30,7 +30,7 @@
 - *Variable Type*: **String**
 - *Default*: **`"Pepsico"`**
 
-7. Añadir la actividad ***Excel Application Scope*** y escribe la ruta **`C:\UiPathCourse\Excel\Nuevo.xlsx`**
+7. Añadir la actividad ***Excel Application Scope*** y escribe la ruta **`"C:\UiPathCourse\Excel\Nuevo.xlsx"`**
 
 <div align="center">
 <img src="assets/image07.png" align="center">
@@ -48,7 +48,7 @@
 
 - Range: **`"A2"`**
 - SheetName: **`"Sheet1"`**
-- Value: **`"str_nombreEmpresa.ToUpper"`**
+- Value: **`str_nombreEmpresa.ToUpper`**
 
 <div align="center">
 <img src="assets/image09.png" align="center">
@@ -59,7 +59,7 @@
 
 - Range: **`"A3"`**
 - SheetName: **`"Sheet1"`**
-- Value: **`"str_nombreEmpresa.ToLower"`**
+- Value: **`str_nombreEmpresa.ToLower`**
 
 <div align="center">
 <img src="assets/image10.png" align="center">

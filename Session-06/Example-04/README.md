@@ -23,7 +23,7 @@
 
 5. Crear el archivo ***LeerRangoCeldasExcel***.xaml (con el flujo de trabajo *Sequence*).
  
-6. Añadir la actividad ***Excel Application Scope*** y escribe la ruta **`C:\UiPathCourse\Excel\Nuevo.xlsx`**
+6. Añadir la actividad ***Excel Application Scope*** y escribe la ruta **`"C:\UiPathCourse\Excel\Nuevo.xlsx"`**
 
 7. Añadir la actividad ***Read Range*** dentro del ***Do*** de la actividad ***Excel Application Scope***.
 
@@ -36,7 +36,7 @@
 
 - Input / Range: **`"A1:B3"`**
 - Input / SheetName: **`"Sheet1"`**
-- Output / DataTable: **`"dtb_tableExcel"`** (**TIP:** Crear y utilizar la variable mediante ***Ctrl + K***)
+- Output / DataTable: **`dtb_tableExcel`** (**TIP:** Crear y utilizar la variable mediante ***Ctrl + K***)
 
 <div align="center">
 <img src="assets/image08.png" align="center">
@@ -50,8 +50,23 @@
 </div>
 <br>
 
-10. Añadir la actividad **For each** y muestra cada uno de los valores con ***Message Box***.
+10. Añadir la actividad **For Each Row** y escribir los siguientes valores:
 
-11. Ejecutar el flujo y ver los resultados.
+    - *For each*: **`Fila`**
+    - *In*: **`dtb_tablaExcel`**
+
+<div align="center">
+<img src="assets/image10.png" align="center">
+</div>
+<br>
+
+11. Añadir la actividad ***Message Box*** dentro del ***Body*** de la actividad ***For Each Row*** y escribir lo siguiente: **`Fila(0).ToString + " : " + Fila(1).ToString`**
+
+<div align="center">
+<img src="assets/image11.png" align="center">
+</div>
+<br>
+
+12. Ejecutar el flujo y ver los resultados.
 
 </div>

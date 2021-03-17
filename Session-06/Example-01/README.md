@@ -20,7 +20,7 @@
 
 3. Crear el archivo ***UtilizarExcel.xaml*** (con el flujo de trabajo *Sequence*).
 
-4. Añadir la actividad ***Excel Application Scope*** y escribe la ruta **`C:\UiPathCourse\Excel\Nuevo.xlsx`**
+4. Añadir la actividad ***Excel Application Scope*** y escribe la ruta **`"C:\UiPathCourse\Excel\Nuevo.xlsx"`**
 
 <div align="center">
 <img src="assets/image04.png" align="center">
@@ -45,7 +45,7 @@
 
 8. Ejecutar el flujo y ver los resultados.
 
-9. En la actividad ***Excel Application Scope*** añadida, cambiar el nombre del archivo a utilizar: **`C:\UiPathCourse\Excel\Nuevo2.xlsx`** 
+9. En la actividad ***Excel Application Scope*** añadida, cambiar el nombre del archivo a utilizar: **`"C:\UiPathCourse\Excel\Nuevo2.xlsx"`** 
 
 <div align="center">
 <img src="assets/image09.png" align="center">
