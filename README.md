@@ -37,7 +37,7 @@ El objetivo es brindarle una visión general sobre RPA y prepararte para desarro
 
 - [`Sesión 06:` Fundamentos de Excel](Session-06/README.md)
 
-- [`Sesión 07:` Automatizaciones Especiales](Session-07/README.md)
+- [`Sesión 07:` Manipulación de Excel](Session-07/README.md)
 
 - [`Sesión 08:` Buenas prácticas 1](Session-08/README.md)
 

@@ -1,11 +1,9 @@
-# Sesión 07: Automatizaciones Especiales
+# Sesión 07: Manipulación del Excel
 
 <div>
 
 ## 1. Objetivos :dart:
 
-- ...
-- ...
 - ...
 
 ## 2. Prework :notebook_with_decorative_cover:
@@ -18,21 +16,13 @@ Previo a tu sesión remota, es importante revises esta información, funcionará
 
 ---
 
-### <ins>Tema 1</ins>
+### <ins>Manejo de matrices de información</ins>
 
-En el tema 1 veremos...
+En un proceso real, el manejo que realicemos con los archivo Excel, será  mediante el uso de grandes cantidades de información, matrices de información que debemos saber como segmentar, manipular e incluso ordenar.
 
-- [**`EJEMPLO 1`**](Ejemplo-01/README.md)
-- [**`RETO 1`**](Reto-01/README.md)
-
----
-
-### <ins>Tema 2</ins>
-
-En el tema 2 veremos...
-
-- [**`EJEMPLO 2`**](Ejemplo-02/README.md)
-- [**`RETO 2`**](Reto-02/README.md)
+- [**`EJEMPLO 1`**](Example-01/README.md)
+- [**`EJEMPLO 2`**](Example-02/README.md)
+- [**`RETO 1`**](Challenge-01/README.md)
 
 ---
 
