@@ -1,13 +1,13 @@
-# Sesión 08: Buenas Prácticas 1
+# Sesión 08: Automatización Web Básico
 
 <div>
 
-
 ## 1. Objetivos :dart:
 
-- ...
-- ...
-- ...
+- Conocer la actividad *Open Browser*.
+- Conocer las actividades *Type Into* y *Click*
+- Conocer las actividades *Take Screenshot* y *Save Image*.
+- Conocer la actividad *Element Exists*.
 
 ## 2. Prework :notebook_with_decorative_cover:
 

@@ -1,4 +1,4 @@
-# Ejemplo 02: Leer rango y pegar en nueva hoja de Excel
+# Ejemplo 04: Ordenar los registros de una tabla Excel
 
 <div style="text-align: justify;">
 
@@ -13,64 +13,39 @@
 
 ### Procedimiento ejercicio
 
-1. Realizar el ejemplo 01 (Escribir un DataTable en un Excel).
+1. Realizar el reto 02 (Agregar Nuevo Registro Excel Empleados).
 
 ### Procedimiento manual
 
-1. Verificar que la carpeta **Excel** este creada en la carpeta **C:\UiPathCourse**. Si no existe crearla.
+1. Descargar el archivo [**`empleados.xlsx`**](https://github.com/bot-jcris/RPA-UiPath-Pepsico-2021/raw/main/Session-07/material/empleados.xlsx)
 
-2. Dentro de la carpeta **C:\UiPathCourse\Excel** verificar que **exista** el archivo Excel con nombre: **ListaCompras.xlsx**. Si no existe crear el archivo.
-
-3. Verificar que el archivo Excel con nombre **ListaCompras.xlsx** tenga la pestaña con nombre **`"Sheet1"`**
-
-<div align="center">
-<img src="assets/image0.03.png" align="center">
-</div>
-<br>
-
-4. Verificar que el contenido del Excel con nombre **ListaCompras.xlsx** sea como se muestra en la imagen:
-
-<div align="center">
-<img src="assets/image0.04.png" align="center">
-</div>
-<br>
+2. Colocar el archivo en la ruta **`"C:\UiPathCourse\Excel"`**
 
 ## 3. Desarrollo :hammer:
 
-1. Crear el archivo ***AgregarNuevoRegistroExcel***.xaml (con el flujo de trabajo *Sequence*).
+1. Crear el archivo ***OrdenarRegistrosExcel***.xaml (con el flujo de trabajo *Sequence*).
 
-2. Añadir la actividad ***Excel Application Scope*** y escribir la ruta del archivo: **`"C:\UiPathCourse\Excel\ListaCompras.xlsx"`**
+2. Añadir la actividad ***Excel Application Scope*** y escribir la ruta del archivo: **`"C:\UiPathCourse\Excel\empleados.xlsx"`**
 
-3. Añadir la actividad ***Build Data Table*** dentro del ***Do*** de la actividad ***Excel Application Scope*** y dar clic en el botón ***Datatable...***
+3. Añadir la actividad ***Sort Table*** dentro del ***Do*** del ***Excel Application Scope***
 
 <div align="center">
 <img src="assets/image03.png" align="center">
 </div>
 <br>
 
-4. Llenar el ***DataTable*** tal y como se muestra en la siguiente imagen:
+4. Ir a las propiedades del ***Sort Table*** y escribir los siguientes valores:
+
+    - Input / DataTable: **`dtb_NuevoRegistro`**
+    - Input / SheetName: **`"Sheet1"`**
 
 <div align="center">
 <img src="assets/image04.png" align="center">
 </div>
 <br>
 
-5. Añadir la actividad ***Append Range*** dentro del ***Do*** de la actividad ***Excel Application Scope***.
+FALTAN PASOS
 
-<div align="center">
-<img src="assets/image05.png" align="center">
-</div>
-<br>
-
-6. Ir a las propiedades del ***Append Range*** y escribir los siguientes valores:
-
-    - Input / DataTable: **`dtb_NuevoRegistro`**
-    - Input / SheetName: **`"Sheet1"`**
-
-<div align="center">
-<img src="assets/image06.png" align="center">
-</div>
-<br>
 
 7. Ejecutar el flujo y ver los resultados.
 

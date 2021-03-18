@@ -1,11 +1,8 @@
-# Ejemplo 04: Ordenar los registros de una tabla de Excel
+# Ejemplo 04: Escribir un Data Table en un CSV
 
 <div style="text-align: justify;">
 
 ## 1. Objetivos :dart:
-
-- Conocer la actividad ***Sort Table***.
-- Aprender a crear una tabla en Excel.
 
 ## 2. Desarrollo :hammer:
 
@@ -20,6 +17,26 @@
 </div>
 <br>
 
+4. Aparecerá un **mensaje de error**. Copiar el nombre de la variable y crearla mediante **`Ctrl + K`**
+
+5. Añadir la actividad ***Write CSV***.
+
+<div align="center">
+<img src="assets/image05.png" align="center">
+</div>
+<br>
+
+6. Dentro de la actividad ***Write CSV***, escribir lo siguiente:
+
+    - Write to what file: **`C:\UiPathCourse\F\nuevo.csv`**
+    - Variable type: **`dtb_primerDatatable`**
+
+    **Nota:** No marquen la casilla ***Include headers***
+
+<div align="center">
+<img src="assets/image06.png" align="center">
+</div>
+<br>
 
 7. Ejecutar el flujo y ver los resultados.
 
