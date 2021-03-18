@@ -13,18 +13,20 @@
 
 Previo a tu sesión remota, es importante revises esta información, funcionará para introducirte al tema y que aproveches al máximo el tiempo con el instructor.
 
-- [**`PREWORK SESIÓN 8`**](Prework/README.md)
+- [**`PREWORK SESIÓN 8`**](https://github.com/bot-jcris/RPA-UiPath-Pepsico-2021/raw/main/Session-08/material/Prework_%20Sesi%C3%B3n%208_Automatizaci%C3%B3n%20Web%20B%C3%A1sico.pdf)
 
 ## 3. Contenido :blue_book:
 
 ---
 
-### <ins>Tema 1</ins>
+### <ins>Elementos básicos de la automatizaciónm de una página web</ins>
 
-En el tema 1 veremos...
-
-- [**`EJEMPLO 1`**](Ejemplo-01/README.md)
-- [**`RETO 1`**](Reto-01/README.md)
+- [**`EJEMPLO 1`**](Example-01/README.md)
+- [**`EJEMPLO 2`**](Example-02/README.md)
+- [**`RETO 1`**](Challenge-01/README.md)
+- [**`EJEMPLO 3`**](Example-03/README.md)
+- [**`RETO 2`**](Challenge-02/README.md)
+- [**`EJEMPLO 4`**](Example-04/README.md)
 
 ---
 
