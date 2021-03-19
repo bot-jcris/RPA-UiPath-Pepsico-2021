@@ -41,7 +41,7 @@ El objetivo es brindarle una visión general sobre RPA y prepararte para desarro
 
 - [`Sesión 08:` Automatización Web Básico](Session-08/README.md)
 
-- [`Sesión 09:` Buenas prácticas 2](Session-09/README.md)
+- [`Sesión 09:` Automatización Web Avanzado](Session-09/README.md)
 
 - [`Sesión 10:` Robotic Enterprise Framework](Session-10/README.md)
 
