@@ -43,15 +43,15 @@ El objetivo es brindarle una visión general sobre RPA y prepararte para desarro
 
 - [`Sesión 09:` Automatización Web Avanzado](Session-09/README.md)
 
-- [`Sesión 10:` Automatización Aplicaciones de Escritorio](Session-10/README.md)
+- [`Sesión 10:` Automatización de Aplicaciones de Escritorio](Session-10/README.md)
 
-- [`Sesión 11:` Email Automation](Session-10/README.md)
+- [`Sesión 11:` Manejo de correos electrónicos](Session-11/README.md)
 
-- [`Sesión 12:` Bases de Datos](Session-10/README.md)
+- [`Sesión 12:` Bases de Datos](Session-12/README.md)
 
-- [`Sesión 13:` Buenas Prácticas](Session-10/README.md)
+- [`Sesión 13:` Buenas Prácticas](Session-13/README.md)
 
-- [`Sesión 14:` Proyecto Final](Session-10/README.md)
+- [`Sesión 14:` Proyecto Final](Session-14/README.md)
 
 ## :wrench: Proyecto
 

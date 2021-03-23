@@ -1,11 +1,12 @@
-# Sesión 10: Automatización de Aplicaciones de Escritorio
+# Sesión 12: Bases de Datos
 
 <div>
 
 ## 1. Objetivos :dart:
 
-- Conocer el funcionamiento del *Desktop Recording* y *Basic Recording*.
-- Conocer el funcionamiento de las actividades *Open Application*, *Set Text* y *Get Text*.
+- ...
+- ...
+- ...
 
 ## 2. Prework :notebook_with_decorative_cover:
 
@@ -42,6 +43,6 @@ Aplica lo todo lo que aprendiste durante la sesión a tu proyecto personal.
 
 <br>
 
-[`Anterior`](../Session-09/README.md) | [`Siguiente`](../Session-11/README.md)
+[`Anterior`](../Session-11/README.md) | [`Siguiente`](../Session-13/README.md)
 
 </div>
