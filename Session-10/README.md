@@ -11,27 +11,21 @@
 
 Previo a tu sesión remota, es importante revises esta información, funcionará para introducirte al tema y que aproveches al máximo el tiempo con el instructor.
 
-- [**`PREWORK SESIÓN 10`**](Prework/README.md)
+- [**`PREWORK SESIÓN 10`**](https://github.com/bot-jcris/RPA-UiPath-Pepsico-2021/raw/main/Session-10/material/Prework_%20Sesi%C3%B3n%2010_Automatizaci%C3%B3n%20Aplicaciones%20Escritorio.pdf)
 
 ## 3. Contenido :blue_book:
 
 ---
 
-### <ins>Tema 1</ins>
+### <ins>Grabadora de acciones</ins>
 
-En el tema 1 veremos...
+En UiPath tenemos la posibilidad de facilitar la automatización de cualquier aplicación con interacción gráfica (botones, ventanas, etc.) mediante el uso de grabadoras que permiten replicar una acción manual que realicemos, traducciendo los eventos realizados manualmente y actividades de UiPath, ahorrando enormemente los tiempos de desarrollo.
 
-- [**`EJEMPLO 1`**](Ejemplo-01/README.md)
-- [**`RETO 1`**](Reto-01/README.md)
-
----
-
-### <ins>Tema 2</ins>
-
-En el tema 2 veremos...
-
-- [**`EJEMPLO 2`**](Ejemplo-02/README.md)
-- [**`RETO 2`**](Reto-02/README.md)
+- [**`EJEMPLO 1`**](Example-01/README.md)
+- [**`EJEMPLO 2`**](Example-01/README.md)
+- [**`RETO 1`**](Challenge-01/README.md)
+- [**`EJEMPLO 3`**](Example-01/README.md)
+- [**`RETO 2`**](Challenge-01/README.md)
 
 ---
 
