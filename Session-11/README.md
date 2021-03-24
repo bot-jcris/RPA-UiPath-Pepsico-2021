@@ -1,4 +1,4 @@
-# Sesión 11: Manejo de correos electrónicos
+# Sesión 11: Base de Datos
 
 <div>
 
@@ -14,7 +14,14 @@ Previo a tu sesión remota, es importante revises esta información, funcionará
 
 - [**`PREWORK SESIÓN 10`**](Prework/README.md)
 
-## 3. Contenido :blue_book:
+## 3. Requisitos :gear:
+
+Instalación de los siguientes aplicativos:
+
+- [**`DB Browser for SQLite`**](Ejemplo-01/README.md)
+- [**`SQLiteODBC`**](Ejemplo-01/README.md)
+
+## 4. Contenido :blue_book:
 
 ---
 
@@ -36,7 +43,7 @@ En el tema 2 veremos...
 
 ---
 
-## 4. Postwork :memo:
+## 5. Postwork :memo:
 Aplica lo todo lo que aprendiste durante la sesión a tu proyecto personal.
 
 - [**`POSTWORK SESIÓN 10`**](Postwork/README.md)

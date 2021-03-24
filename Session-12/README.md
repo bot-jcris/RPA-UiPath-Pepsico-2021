@@ -1,4 +1,4 @@
-# Sesión 12: Bases de Datos
+# Sesión 12: Manejo de correos electrónicos
 
 <div>
 
