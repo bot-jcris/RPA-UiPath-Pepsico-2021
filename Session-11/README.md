@@ -21,6 +21,9 @@ Instalación de los siguientes aplicativos:
 - [**`DB Browser for SQLite`**](https://github.com/bot-jcris/RPA-UiPath-Pepsico-2021/raw/main/Session-11/material/DB.Browser.for.SQLite-3.12.1-win64-v2.msi)
 - [**`SQLiteODBC`**](https://github.com/bot-jcris/RPA-UiPath-Pepsico-2021/raw/main/Session-11/material/sqliteodbc.exe)
 
+Descarga del siguiente material:
+- [**`Excel empleados`**]
+
 ## 4. Contenido :blue_book:
 
 ---
@@ -30,13 +33,14 @@ Instalación de los siguientes aplicativos:
 Los datos son una colección de una unidad de información distinta. Estos datos se utilizan en una variedad de formas de texto, números, medios y muchos más . Durante la automatización existirá la necesidad de almacenar y procesar grandes volumenes de información.
 
 - [**`EJEMPLO 1`**](Example-01/README.md)
+- [**`EJEMPLO 2`**](Example-02/README.md)
 
 ---
 
 ## 5. Postwork :memo:
 Aplica lo todo lo que aprendiste durante la sesión a tu proyecto personal.
 
-- [**`POSTWORK SESIÓN 10`**](Postwork/README.md)
+- [**`POSTWORK SESIÓN 11`**](Postwork/README.md)
 
 <br>
 

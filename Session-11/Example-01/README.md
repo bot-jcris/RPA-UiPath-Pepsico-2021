@@ -4,13 +4,14 @@
 
 ## 1. Objetivos :dart:
 
-- Conocer el funcionamiento del *Basic Recording*.
+- Conocer el SGBD SQLite.
 
 ## 2. Requisitos :gear:
 
 1. Tener instalado UiPath Studio.
 
-2. Tener la aplicación Calculadora.
+2. Tener DBBrowser for SQLite instalado.
+
 
 ## 3. Desarrollo :hammer:
 
