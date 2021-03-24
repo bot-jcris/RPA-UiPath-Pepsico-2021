@@ -18,8 +18,8 @@ Previo a tu sesión remota, es importante revises esta información, funcionará
 
 Instalación de los siguientes aplicativos:
 
-- [**`DB Browser for SQLite`**](Ejemplo-01/README.md)
-- [**`SQLiteODBC`**](Ejemplo-01/README.md)
+- [**`DB Browser for SQLite`**](https://github.com/bot-jcris/RPA-UiPath-Pepsico-2021/raw/main/Session-11/material/DB.Browser.for.SQLite-3.12.1-win64-v2.msi)
+- [**`SQLiteODBC`**](https://github.com/bot-jcris/RPA-UiPath-Pepsico-2021/raw/main/Session-11/material/sqliteodbc.exe)
 
 ## 4. Contenido :blue_book:
 
