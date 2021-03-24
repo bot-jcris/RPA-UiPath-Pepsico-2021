@@ -77,12 +77,20 @@
 </div>
 <br>
 
+6. Dar clic en la pestaña ***Execute SQL***.
 
+<div align="center">
+<img src="assets/image06.png" align="center">
+</div>
+<br>
 
+7. Escribir la siguiente sentencia y da clic en el botón de **Ejecutar**.
 
+    **`SELECT * FROM empleados`**
 
-11. Ejecutar el flujo y ver los resultados.
-
-
+<div align="center">
+<img src="assets/image06.png" align="center">
+</div>
+<br>
 
 </div>
