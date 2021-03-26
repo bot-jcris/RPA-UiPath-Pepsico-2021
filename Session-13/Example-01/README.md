@@ -10,9 +10,9 @@
 
 1. Tener instalado UiPath Studio.
 
-2. Descargar el archivo:
+2. Descargar el siguiente archivo y colocar dentro de la carpeta del proyecto:
 
-- [**`Config.xlsx`**](Prework/README.md)
+- [**`Config.xlsx`**](https://github.com/bot-jcris/RPA-UiPath-Pepsico-2021/raw/main/Session-13/material/Config.xlsx)
 
 ## 3. Desarrollo :hammer:
 
