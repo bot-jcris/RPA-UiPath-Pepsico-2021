@@ -32,7 +32,7 @@ La creación de un archivo de configuración para sus flujos de trabajo es una f
 ## 4. Postwork :memo:
 Aplica lo todo lo que aprendiste durante la sesión a tu proyecto personal.
 
-- [**`POSTWORK SESIÓN 10`**](Postwork/README.md)
+- [**`POSTWORK SESIÓN 13`**](Postwork/README.md)
 
 <br>
 
