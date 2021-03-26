@@ -12,7 +12,7 @@
 
 Previo a tu sesión remota, es importante revises esta información, funcionará para introducirte al tema y que aproveches al máximo el tiempo con el instructor.
 
-- [**`PREWORK SESIÓN 10`**](Prework/README.md)
+- [**`PREWORK SESIÓN 13`**](Prework/README.md)
 
 ## 3. Contenido :blue_book:
 
@@ -22,17 +22,8 @@ Previo a tu sesión remota, es importante revises esta información, funcionará
 
 En el tema 1 veremos...
 
-- [**`EJEMPLO 1`**](Ejemplo-01/README.md)
-- [**`RETO 1`**](Reto-01/README.md)
-
----
-
-### <ins>Tema 2</ins>
-
-En el tema 2 veremos...
-
-- [**`EJEMPLO 2`**](Ejemplo-02/README.md)
-- [**`RETO 2`**](Reto-02/README.md)
+- [**`EJEMPLO 1`**](Example-01/README.md)
+- [**`RETO 1`**](Challengue-01/README.md)
 
 ---
 
