@@ -32,7 +32,7 @@
 4. Ir a las propiedades de la actividad ***Read Range*** y escribir los siguientes valores:
 
     - *Input > Range*: **`""`**
-    - *Input > SheetName*: **`"Sheet1"`**
+    - *Input > SheetName*: **`"Settings"`**
     - *Options > AddHeaders*: **Habilitar**
     - *Output > DataTable*: **`"dtb_config"`**
 
@@ -62,6 +62,31 @@
 
 <div align="center">
 <img src="assets/image06.png" align="center">
+</div>
+<br>
+
+7. Añadir la actividad ***Assign*** y escribir los siguientes valores:
+    - Del lado izquierdo: **`dic_config(registro(0).ToString)`**
+    - Del lado derecho: **`registro(1)`**
+
+<div align="center">
+<img src="assets/image07.png" align="center">
+</div>
+<br>
+
+8. Añadir la actividad ***If***, mover a su ***Body*** la actividad ***Assign*** (creada en el paso anterior) y escribir dentro de ***Condition***: **`NOT String.IsNullOrEmpty(row(0).ToString)`**
+
+<div align="center">
+<img src="assets/image08.png" align="center">
+</div>
+<br>
+
+9. Añadir la actividad ***Excel Application Scope*** y escribir: **`dic_config("File_Excel_Path_Nuevo").ToString`**
+
+    Añadir la actividad ***Message Box*** dentro del ***Do** de la actividad ***Excel Application Scope*** y escribir: **`Revisar`**
+
+<div align="center">
+<img src="assets/image09.png" align="center">
 </div>
 <br>
 
