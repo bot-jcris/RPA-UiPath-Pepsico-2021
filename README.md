@@ -51,7 +51,7 @@ El objetivo es brindarle una visión general sobre RPA y prepararte para desarro
 
 - [`Sesión 13:` Buenas Prácticas](Session-13/README.md)
 
-- [`Sesión 14:` Proyecto Final](Session-14/README.md)
+- [`Sesión 14:` Manejo de errores](Session-14/README.md)
 
 ## :wrench: Proyecto
 
