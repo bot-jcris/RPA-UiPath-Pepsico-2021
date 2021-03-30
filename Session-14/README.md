@@ -4,7 +4,9 @@
 
 ## 1. Objetivos :dart:
 
--	Conocer ...
+- Conocer el procedimiento de depuración.
+- Conocer las acciones de depuración: *Slow Step*, *Execution Trail* y *Highlight Elements*.
+- Conocer el Try Catch.
 
 
 ## 2. Prework :notebook_with_decorative_cover:
@@ -22,7 +24,7 @@ Previo a tu sesión remota, es importante revises esta información, funcionará
 La depuración es el proceso de identificar y eliminar errores que impiden que el proyecto funcione correctamente.
 
 - [**`EJEMPLO 1`**](Example-01/README.md)
-- [**`RETO 1`**](Challenge-01/README.md)
+- [**`EJEMPLO 2`**](Example-02/README.md)
 
 ---
 
