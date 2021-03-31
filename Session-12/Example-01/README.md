@@ -4,7 +4,8 @@
 
 ## 1. Objetivos :dart:
 
-- Conocer...
+- Conocer el procedimiento para enviar un correo.
+- Conocer la actividad *Send Outlook Mail Message*.
 
 ## 2. Requisitos :gear:
 
@@ -24,7 +25,7 @@
 3. Ir a las propiedades de la actividad ***Send Outlook Mail Message*** y modificar las siguientes variables:
 
     - *Email > Body:* **`Este es un contenido de prueba`**
-    - *Email > Subject:* **`Prueba`**
+    - *Email > Subject:* **`Prueba RPA`**
     - *Receiver > To:* **TuCorreoInstitucional@pepsico.com**
 
 <div align="center">

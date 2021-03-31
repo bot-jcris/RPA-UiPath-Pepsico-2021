@@ -4,7 +4,11 @@
 
 ## 1. Objetivos :dart:
 
-- Conocer .......
+- Conocer el procedimiento para enviar un correo.
+- Conocer la actividad *Send Outlook Mail Message*.
+- Conocer el formato de correo HTML.
+- Conocer el procedimiento para leer tu bandeja de correo.
+- Conocer la actividad *Get Outlook Mail Message*.
 
 ## 2. Prework :notebook_with_decorative_cover:
 
