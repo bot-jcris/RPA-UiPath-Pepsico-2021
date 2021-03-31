@@ -122,8 +122,6 @@
 </div>
 <br>
 
-
-
 25. Añadir la actividad ***Try Catch*** y arrastrar a la sección ***Try*** la actividad previamente agregada ***Open Browser***, tal como se muestra en la imagen.
 
 <div align="center">
