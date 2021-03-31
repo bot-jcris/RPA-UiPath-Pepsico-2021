@@ -30,6 +30,9 @@ Entre las numerosas actividades que UiPath puede automatizar, la automatización
 
 - [**`EJEMPLO 1`**](Example-01/README.md)
 - [**`EJEMPLO 2`**](Example-02/README.md)
+- [**`RETO 1`**](Challenge-01/README.md)
+- [**`EJEMPLO 3`**](Example-03/README.md)
+- [**`RETO 2`**](Challenge-02/README.md)
 
 ---
 
