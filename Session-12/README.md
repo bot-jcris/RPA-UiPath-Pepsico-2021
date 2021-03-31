@@ -18,7 +18,7 @@ Previo a tu sesión remota, es importante revises esta información, funcionará
 
 ## 3. Requisitos :gear:
 
- -  UiPath Studio instalado
+ -  UiPath Studio instalado.
 
 ## 4. Contenido :blue_book:
 
